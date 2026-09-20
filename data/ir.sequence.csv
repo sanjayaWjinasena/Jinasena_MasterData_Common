@@ -5,60 +5,60 @@ ir_sequence_advance_payment_repairs_check_number_seq,Advance Payment - Repairs :
 ir_sequence_advance_payment_check_number_sequence,Advance Payment : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_advance_receipt_repairs_check_number_seq,Advance Receipt - Repairs: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_advance_receipt_check_number_sequence,Advance Receipt: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_advance_payment_copy_check_number_sequen,Advance payment (copy) : Check Number Sequence,,no_gap,1,,1,1,5,
-ir_sequence_advance_payment_check_number_sequence_272,Advance payment : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_advance_payment_copy_check_number_sequen,Advance payment (copy) : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
+ir_sequence_advance_payment_check_number_sequence_272,Advance payment : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_advanced_cash_purchase_check_number_sequ,Advanced Cash Purchase : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_asset_depreciation_check_number_sequence,Asset Depreciation: Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_asset_depreciation_check_number_sequence,Asset Depreciation: Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_boc_bank_check_number_sequence,BOC BANK: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_br_am_warehouse_for_ampara_sales_center_,BR-AM - Warehouse for Ampara Sales Center Picking POS,,standard,1,BR-AM/POS/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__380,BR-AM - Warehouse for Ampara Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AM/RES/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__522,BR-AM - Warehouse for Ampara Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AM/RES/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__176,BR-AM - Warehouse for Ampara Sales Center Sequence in,,standard,1,BR-AM/IN/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__180,BR-AM - Warehouse for Ampara Sales Center Sequence internal,,standard,1,BR-AM/INT/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__177,BR-AM - Warehouse for Ampara Sales Center Sequence out,,standard,1,BR-AM/OUT/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__179,BR-AM - Warehouse for Ampara Sales Center Sequence packing,,standard,1,BR-AM/PACK/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__178,BR-AM - Warehouse for Ampara Sales Center Sequence picking,,standard,1,BR-AM/PICK/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__181,BR-AM - Warehouse for Ampara Sales Center Sequence picking before manufacturing,,standard,1,BR-AM/PC/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__183,BR-AM - Warehouse for Ampara Sales Center Sequence production,,standard,1,BR-AM/MO/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__989,BR-AM - Warehouse for Ampara Sales Center Sequence repair,,standard,1,BR-AM/RO/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__342,BR-AM - Warehouse for Ampara Sales Center Sequence return,,standard,1,BR-AM/RET/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__182,BR-AM - Warehouse for Ampara Sales Center Sequence stock after manufacturing,,standard,1,BR-AM/SFP/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__521,BR-AM - Warehouse for Ampara Sales Center Sequence subcontracting,,standard,1,BR-AM/SBC/,1,1,5,
-ir_sequence_br_am_warehouse_for_ampara_sales_center__379,BR-AM - Warehouse for Ampara Sales Center Sequence subcontracting,,standard,1,BR-AM/SBC/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c,BR-AN - Warehouse for Anuradhapura Sales Center Picking POS,,standard,1,BR-AN/POS/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_308,BR-AN - Warehouse for Anuradhapura Sales Center Sequence IN,,standard,1,BR-AN/RET/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_452,BR-AN - Warehouse for Anuradhapura Sales Center Sequence MJ/OUT,,standard,1,BR-AN/MJ/OUT/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_532,BR-AN - Warehouse for Anuradhapura Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AN/RES/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_382,BR-AN - Warehouse for Anuradhapura Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AN/RES/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_185,BR-AN - Warehouse for Anuradhapura Sales Center Sequence in,,standard,1,BR-AN/IN/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_189,BR-AN - Warehouse for Anuradhapura Sales Center Sequence internal,,standard,1,BR-AN/INT/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_186,BR-AN - Warehouse for Anuradhapura Sales Center Sequence out,,standard,1,BR-AN/OUT/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_188,BR-AN - Warehouse for Anuradhapura Sales Center Sequence packing,,standard,1,BR-AN/PACK/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_187,BR-AN - Warehouse for Anuradhapura Sales Center Sequence picking,,standard,1,BR-AN/PICK/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_190,BR-AN - Warehouse for Anuradhapura Sales Center Sequence picking before manufacturing,,standard,1,BR-AN/PC/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_192,BR-AN - Warehouse for Anuradhapura Sales Center Sequence production,,standard,1,BR-AN/MO/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_990,BR-AN - Warehouse for Anuradhapura Sales Center Sequence repair,,standard,1,BR-AN/RO/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_309,BR-AN - Warehouse for Anuradhapura Sales Center Sequence return,,standard,1,BR-AN/RET/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_191,BR-AN - Warehouse for Anuradhapura Sales Center Sequence stock after manufacturing,,standard,1,BR-AN/SFP/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_381,BR-AN - Warehouse for Anuradhapura Sales Center Sequence subcontracting,,standard,1,BR-AN/SBC/,1,1,5,
-ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_531,BR-AN - Warehouse for Anuradhapura Sales Center Sequence subcontracting,,standard,1,BR-AN/SBC/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_p,BR-EK - Warehouse for Ekala Sales Center Picking POS,,standard,1,BR-EK/POS/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s,BR-EK - Warehouse for Ekala Sales Center Sequence Resupply Subcontractor,,standard,1,BR-EK/RES/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_405,BR-EK - Warehouse for Ekala Sales Center Sequence Resupply Subcontractor,,standard,1,BR-EK/RES/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_310,BR-EK - Warehouse for Ekala Sales Center Sequence in,,standard,1,BR-EK/IN/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_314,BR-EK - Warehouse for Ekala Sales Center Sequence internal,,standard,1,BR-EK/INT/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_311,BR-EK - Warehouse for Ekala Sales Center Sequence out,,standard,1,BR-EK/OUT/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_313,BR-EK - Warehouse for Ekala Sales Center Sequence packing,,standard,1,BR-EK/PACK/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_312,BR-EK - Warehouse for Ekala Sales Center Sequence picking,,standard,1,BR-EK/PICK/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_316,BR-EK - Warehouse for Ekala Sales Center Sequence picking before manufacturing,,standard,1,BR-EK/PC/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_318,BR-EK - Warehouse for Ekala Sales Center Sequence production,,standard,1,BR-EK/MO/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_996,BR-EK - Warehouse for Ekala Sales Center Sequence repair,,standard,1,BR-EK/RO/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_315,BR-EK - Warehouse for Ekala Sales Center Sequence return,,standard,1,BR-EK/RET/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_317,BR-EK - Warehouse for Ekala Sales Center Sequence stock after manufacturing,,standard,1,BR-EK/SFP/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_547,BR-EK - Warehouse for Ekala Sales Center Sequence subcontracting,,standard,1,BR-EK/SBC/,1,1,5,
-ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_404,BR-EK - Warehouse for Ekala Sales Center Sequence subcontracting,,standard,1,BR-EK/SBC/,1,1,5,
-ir_sequence_bank_check_number_sequence,Bank : Check Number Sequence,,no_gap,1,,1,1,5,
-ir_sequence_bank_check_number_sequence_269,Bank : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_br_am_warehouse_for_ampara_sales_center_,BR-AM - Warehouse for Ampara Sales Center Picking POS,,standard,1,BR-AM/POS/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__380,BR-AM - Warehouse for Ampara Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AM/RES/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__522,BR-AM - Warehouse for Ampara Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AM/RES/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__176,BR-AM - Warehouse for Ampara Sales Center Sequence in,,standard,1,BR-AM/IN/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__180,BR-AM - Warehouse for Ampara Sales Center Sequence internal,,standard,1,BR-AM/INT/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__177,BR-AM - Warehouse for Ampara Sales Center Sequence out,,standard,1,BR-AM/OUT/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__179,BR-AM - Warehouse for Ampara Sales Center Sequence packing,,standard,1,BR-AM/PACK/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__178,BR-AM - Warehouse for Ampara Sales Center Sequence picking,,standard,1,BR-AM/PICK/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__181,BR-AM - Warehouse for Ampara Sales Center Sequence picking before manufacturing,,standard,1,BR-AM/PC/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__183,BR-AM - Warehouse for Ampara Sales Center Sequence production,,standard,1,BR-AM/MO/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__989,BR-AM - Warehouse for Ampara Sales Center Sequence repair,,standard,1,BR-AM/RO/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__342,BR-AM - Warehouse for Ampara Sales Center Sequence return,,standard,1,BR-AM/RET/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__182,BR-AM - Warehouse for Ampara Sales Center Sequence stock after manufacturing,,standard,1,BR-AM/SFP/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__521,BR-AM - Warehouse for Ampara Sales Center Sequence subcontracting,,standard,1,BR-AM/SBC/,1,1,5,base.main_company
+ir_sequence_br_am_warehouse_for_ampara_sales_center__379,BR-AM - Warehouse for Ampara Sales Center Sequence subcontracting,,standard,1,BR-AM/SBC/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c,BR-AN - Warehouse for Anuradhapura Sales Center Picking POS,,standard,1,BR-AN/POS/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_308,BR-AN - Warehouse for Anuradhapura Sales Center Sequence IN,,standard,1,BR-AN/RET/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_452,BR-AN - Warehouse for Anuradhapura Sales Center Sequence MJ/OUT,,standard,1,BR-AN/MJ/OUT/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_532,BR-AN - Warehouse for Anuradhapura Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AN/RES/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_382,BR-AN - Warehouse for Anuradhapura Sales Center Sequence Resupply Subcontractor,,standard,1,BR-AN/RES/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_185,BR-AN - Warehouse for Anuradhapura Sales Center Sequence in,,standard,1,BR-AN/IN/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_189,BR-AN - Warehouse for Anuradhapura Sales Center Sequence internal,,standard,1,BR-AN/INT/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_186,BR-AN - Warehouse for Anuradhapura Sales Center Sequence out,,standard,1,BR-AN/OUT/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_188,BR-AN - Warehouse for Anuradhapura Sales Center Sequence packing,,standard,1,BR-AN/PACK/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_187,BR-AN - Warehouse for Anuradhapura Sales Center Sequence picking,,standard,1,BR-AN/PICK/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_190,BR-AN - Warehouse for Anuradhapura Sales Center Sequence picking before manufacturing,,standard,1,BR-AN/PC/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_192,BR-AN - Warehouse for Anuradhapura Sales Center Sequence production,,standard,1,BR-AN/MO/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_990,BR-AN - Warehouse for Anuradhapura Sales Center Sequence repair,,standard,1,BR-AN/RO/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_309,BR-AN - Warehouse for Anuradhapura Sales Center Sequence return,,standard,1,BR-AN/RET/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_191,BR-AN - Warehouse for Anuradhapura Sales Center Sequence stock after manufacturing,,standard,1,BR-AN/SFP/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_381,BR-AN - Warehouse for Anuradhapura Sales Center Sequence subcontracting,,standard,1,BR-AN/SBC/,1,1,5,base.main_company
+ir_sequence_br_an_warehouse_for_anuradhapura_sales_c_531,BR-AN - Warehouse for Anuradhapura Sales Center Sequence subcontracting,,standard,1,BR-AN/SBC/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_p,BR-EK - Warehouse for Ekala Sales Center Picking POS,,standard,1,BR-EK/POS/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s,BR-EK - Warehouse for Ekala Sales Center Sequence Resupply Subcontractor,,standard,1,BR-EK/RES/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_405,BR-EK - Warehouse for Ekala Sales Center Sequence Resupply Subcontractor,,standard,1,BR-EK/RES/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_310,BR-EK - Warehouse for Ekala Sales Center Sequence in,,standard,1,BR-EK/IN/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_314,BR-EK - Warehouse for Ekala Sales Center Sequence internal,,standard,1,BR-EK/INT/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_311,BR-EK - Warehouse for Ekala Sales Center Sequence out,,standard,1,BR-EK/OUT/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_313,BR-EK - Warehouse for Ekala Sales Center Sequence packing,,standard,1,BR-EK/PACK/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_312,BR-EK - Warehouse for Ekala Sales Center Sequence picking,,standard,1,BR-EK/PICK/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_316,BR-EK - Warehouse for Ekala Sales Center Sequence picking before manufacturing,,standard,1,BR-EK/PC/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_318,BR-EK - Warehouse for Ekala Sales Center Sequence production,,standard,1,BR-EK/MO/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_996,BR-EK - Warehouse for Ekala Sales Center Sequence repair,,standard,1,BR-EK/RO/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_315,BR-EK - Warehouse for Ekala Sales Center Sequence return,,standard,1,BR-EK/RET/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_317,BR-EK - Warehouse for Ekala Sales Center Sequence stock after manufacturing,,standard,1,BR-EK/SFP/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_547,BR-EK - Warehouse for Ekala Sales Center Sequence subcontracting,,standard,1,BR-EK/SBC/,1,1,5,base.main_company
+ir_sequence_br_ek_warehouse_for_ekala_sales_center_s_404,BR-EK - Warehouse for Ekala Sales Center Sequence subcontracting,,standard,1,BR-EK/SBC/,1,1,5,base.main_company
+ir_sequence_bank_check_number_sequence,Bank : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
+ir_sequence_bank_check_number_sequence_269,Bank : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_branch_warehouse_ekala_br_ek_sequence_in,Branch Warehouse - Ekala(BR-EK) Sequence in,,standard,1,BR-EK/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_branch_warehouse_ekala_br_ek_sequence_in_618,Branch Warehouse - Ekala(BR-EK) Sequence internal,,standard,1,BR-EK/INT/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_branch_warehouse_ekala_br_ek_sequence_ou,Branch Warehouse - Ekala(BR-EK) Sequence out,,standard,1,BR-EK/OUT/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -252,30 +252,30 @@ ir_sequence_branch_warehouse_thambuttegama_sequence__1179,Branch warehouse - Tha
 ir_sequence_branch_warehouse_thambuttegama_sequence__1181,Branch warehouse - Thambuttegama Sequence production,,standard,1,BR-TH/MO/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_branch_warehouse_thambuttegama_sequence__1183,Branch warehouse - Thambuttegama Sequence repair,,standard,1,BR-TH/RO/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_branch_warehouse_thambuttegama_sequence__1180,Branch warehouse - Thambuttegama Sequence stock after manufacturing,,standard,1,BR-TH/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_cc_sequence_no,CC Sequence No,custom.clearance.seq,standard,1,CC/%(year)s/,1,1,5,
+ir_sequence_cc_sequence_no,CC Sequence No,custom.clearance.seq,standard,1,CC/%(year)s/,1,1,5,base.main_company
 ir_sequence_cc_sequence_no_889,CC Sequence No,custom.clearance.seq,standard,1,CC/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_cp_check_number_sequence,CP: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_cpr_sequence_no,CPR Sequence No,cash.purchase.request.seq,standard,1,CPR/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_cpr_sequence_no_222,CPR Sequence No,cash.purchase.request.seq,standard,1,CPR/%(year)s/,1,1,5,
+ir_sequence_cpr_sequence_no_222,CPR Sequence No,cash.purchase.request.seq,standard,1,CPR/%(year)s/,1,1,5,base.main_company
 ir_sequence_cash_check_number_sequence,Cash : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_cash_basis_taxes_check_number_sequence,Cash Basis Taxes: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_cash_issued_check_number_sequence,Cash Issued : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_cash_settled_check_number_sequence,Cash Settled : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_casting_department_mw_jc_picking_pos,Casting Department - MW-JC Picking POS,,standard,1,MW-JC/POS/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_resupp,Casting Department - MW-JC Sequence Resupply Subcontractor,,standard,1,MW-JC/RES/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_resupp_399,Casting Department - MW-JC Sequence Resupply Subcontractor,,standard,1,MW-JC/RES/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_in,Casting Department - MW-JC Sequence in,,standard,1,MW-JC/IN/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_intern,Casting Department - MW-JC Sequence internal,,standard,1,MW-JC/INT/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_out,Casting Department - MW-JC Sequence out,,standard,1,MW-JC/OUT/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_packin,Casting Department - MW-JC Sequence packing,,standard,1,MW-JC/PACK/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_pickin,Casting Department - MW-JC Sequence picking,,standard,1,MW-JC/PICK/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_pickin_263,Casting Department - MW-JC Sequence picking before manufacturing,,standard,1,MW-JC/PC/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_produc,Casting Department - MW-JC Sequence production,,standard,1,MW-JC/MO/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_repair,Casting Department - MW-JC Sequence repair,,standard,1,MW-JC/RO/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_return,Casting Department - MW-JC Sequence return,,standard,1,MW-JC/RET/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_stock_,Casting Department - MW-JC Sequence stock after manufacturing,,standard,1,MW-JC/SFP/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_subcon,Casting Department - MW-JC Sequence subcontracting,,standard,1,MW-JC/SBC/,1,1,5,
-ir_sequence_casting_department_mw_jc_sequence_subcon_398,Casting Department - MW-JC Sequence subcontracting,,standard,1,MW-JC/SBC/,1,1,5,
+ir_sequence_casting_department_mw_jc_picking_pos,Casting Department - MW-JC Picking POS,,standard,1,MW-JC/POS/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_resupp,Casting Department - MW-JC Sequence Resupply Subcontractor,,standard,1,MW-JC/RES/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_resupp_399,Casting Department - MW-JC Sequence Resupply Subcontractor,,standard,1,MW-JC/RES/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_in,Casting Department - MW-JC Sequence in,,standard,1,MW-JC/IN/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_intern,Casting Department - MW-JC Sequence internal,,standard,1,MW-JC/INT/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_out,Casting Department - MW-JC Sequence out,,standard,1,MW-JC/OUT/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_packin,Casting Department - MW-JC Sequence packing,,standard,1,MW-JC/PACK/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_pickin,Casting Department - MW-JC Sequence picking,,standard,1,MW-JC/PICK/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_pickin_263,Casting Department - MW-JC Sequence picking before manufacturing,,standard,1,MW-JC/PC/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_produc,Casting Department - MW-JC Sequence production,,standard,1,MW-JC/MO/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_repair,Casting Department - MW-JC Sequence repair,,standard,1,MW-JC/RO/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_return,Casting Department - MW-JC Sequence return,,standard,1,MW-JC/RET/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_stock_,Casting Department - MW-JC Sequence stock after manufacturing,,standard,1,MW-JC/SFP/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_subcon,Casting Department - MW-JC Sequence subcontracting,,standard,1,MW-JC/SBC/,1,1,5,base.main_company
+ir_sequence_casting_department_mw_jc_sequence_subcon_398,Casting Department - MW-JC Sequence subcontracting,,standard,1,MW-JC/SBC/,1,1,5,base.main_company
 ir_sequence_casting_warehouse_cw_cm_picking_pos,Casting warehouse -  (CW-CM) Picking POS,,standard,1,CW-CM/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_casting_warehouse_cw_cm_sequence_resuppl,Casting warehouse -  (CW-CM) Sequence Resupply Subcontractor,,standard,1,CW-CM/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_casting_warehouse_cw_cm_sequence_in,Casting warehouse -  (CW-CM) Sequence in,,standard,1,CW-CM/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -289,30 +289,30 @@ ir_sequence_casting_warehouse_cw_cm_sequence_repair,Casting warehouse -  (CW-CM)
 ir_sequence_casting_warehouse_cw_cm_sequence_return,Casting warehouse -  (CW-CM) Sequence return,,standard,1,CW-CM/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_casting_warehouse_cw_cm_sequence_stock_a,Casting warehouse -  (CW-CM) Sequence stock after manufacturing,,standard,1,CW-CM/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_casting_warehouse_cw_cm_sequence_subcont,Casting warehouse -  (CW-CM) Sequence subcontracting,,standard,1,CW-CM/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_casting_warehouse_cw_cm_sequence_resuppl_355,Casting warehouse - CW-CM Sequence Resupply Subcontractor,,standard,1,CW-CM/RES/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_resuppl_506,Casting warehouse - CW-CM Sequence Resupply Subcontractor,,standard,1,CW-CM/RES/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_in_916,Casting warehouse - CW-CM Sequence in,,standard,1,CW-CM/IN/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_interna_904,Casting warehouse - CW-CM Sequence internal,,standard,1,CW-CM/INT/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_out_921,Casting warehouse - CW-CM Sequence out,,standard,1,CW-CM/OUT/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_product_935,Casting warehouse - CW-CM Sequence production,,standard,1,CW-CM/MO/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_repair_981,Casting warehouse - CW-CM Sequence repair,,standard,1,CW-CM/RO/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_return_353,Casting warehouse - CW-CM Sequence return,,standard,1,CW-CM/RET/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_subcont_505,Casting warehouse - CW-CM Sequence subcontracting,,standard,1,CW-CM/SBC/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_sequence_subcont_354,Casting warehouse - CW-CM Sequence subcontracting,,standard,1,CW-CM/SBC/,1,1,5,
-ir_sequence_casting_warehouse_cw_cm_picking_pos_917,Casting warehouse - CW-CM picking POS,,standard,1,CW-CM/POS/,1,1,5,
+ir_sequence_casting_warehouse_cw_cm_sequence_resuppl_355,Casting warehouse - CW-CM Sequence Resupply Subcontractor,,standard,1,CW-CM/RES/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_resuppl_506,Casting warehouse - CW-CM Sequence Resupply Subcontractor,,standard,1,CW-CM/RES/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_in_916,Casting warehouse - CW-CM Sequence in,,standard,1,CW-CM/IN/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_interna_904,Casting warehouse - CW-CM Sequence internal,,standard,1,CW-CM/INT/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_out_921,Casting warehouse - CW-CM Sequence out,,standard,1,CW-CM/OUT/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_product_935,Casting warehouse - CW-CM Sequence production,,standard,1,CW-CM/MO/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_repair_981,Casting warehouse - CW-CM Sequence repair,,standard,1,CW-CM/RO/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_return_353,Casting warehouse - CW-CM Sequence return,,standard,1,CW-CM/RET/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_subcont_505,Casting warehouse - CW-CM Sequence subcontracting,,standard,1,CW-CM/SBC/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_sequence_subcont_354,Casting warehouse - CW-CM Sequence subcontracting,,standard,1,CW-CM/SBC/,1,1,5,base.main_company
+ir_sequence_casting_warehouse_cw_cm_picking_pos_917,Casting warehouse - CW-CM picking POS,,standard,1,CW-CM/POS/,1,1,5,base.main_company
 ir_sequence_commercial_cash_receipts_copy_check_numb,Commercial - Cash Receipts (copy): Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_commercial_bank_check_number_sequence,Commercial Bank : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_commercial_bank_check_number_sequence,Commercial Bank : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_commercial_bank_check_number_sequence_1264,Commercial Bank: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_con_consolidated_sequence_no,Con. Consolidated Sequence No,con.consolidated.seq,standard,1,CON/%(year)s/,1,1,5,
+ir_sequence_con_consolidated_sequence_no,Con. Consolidated Sequence No,con.consolidated.seq,standard,1,CON/%(year)s/,1,1,5,base.main_company
 ir_sequence_con_consolidated_sequence_no_887,Con. Consolidated Sequence No,con.consolidated.seq,standard,1,CON/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_consignment_sequence_no,Consignment Sequence No,consignment.det.seq,standard,1,CON/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_consignment_sequence_no_228,Consignment Sequence No,consignment.det.seq,standard,1,CON/%(year)s/,1,1,5,
+ir_sequence_consignment_sequence_no_228,Consignment Sequence No,consignment.det.seq,standard,1,CON/%(year)s/,1,1,5,base.main_company
 ir_sequence_credit_advice_commercial_check_number_se,Credit Advice - Commercial: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_customer_invoices_free_text_check_number,Customer Invoices - Free Text: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_customer_invoices_repairs_check_number_s,Customer Invoices - Repairs: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_customer_invoices_check_number_sequence,Customer Invoices : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_customer_invoices_sp_project_check_numbe,Customer Invoices-SP Project: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_customer_ob_check_number_sequence,Customer OB : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_customer_ob_check_number_sequence,Customer OB : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_customer_receipts_cash_copy_check_number,Customer Receipts - Cash (copy): Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_customer_receipts_cash_check_number_sequ,Customer Receipts - Cash: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_customer_receipts_cheque_check_number_se,Customer Receipts - Cheque: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -321,24 +321,24 @@ ir_sequence_customer_receipts_sales_centre_cheque_ch,Customer Receipts Sales Cen
 ir_sequence_debit_advice_commercial_check_number_seq,Debit Advice - Commercial: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_deposit_boc_check_number_sequence,Deposit BOC: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_deposit_commerical_check_number_sequence,Deposit Commerical : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_electrical_installation_projects_warehou,Electrical Installation Projects warehouse - PJ-EI Picking POS,,standard,1,PJ-EI/POS/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_409,Electrical Installation Projects warehouse - PJ-EI Sequence Resupply Subcontractor,,standard,1,PJ-EI/RES/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_552,Electrical Installation Projects warehouse - PJ-EI Sequence Resupply Subcontractor,,standard,1,PJ-EI/RES/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_331,Electrical Installation Projects warehouse - PJ-EI Sequence in,,standard,1,PJ-EI/IN/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_335,Electrical Installation Projects warehouse - PJ-EI Sequence internal,,standard,1,PJ-EI/INT/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_332,Electrical Installation Projects warehouse - PJ-EI Sequence out,,standard,1,PJ-EI/OUT/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_334,Electrical Installation Projects warehouse - PJ-EI Sequence packing,,standard,1,PJ-EI/PACK/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_333,Electrical Installation Projects warehouse - PJ-EI Sequence picking,,standard,1,PJ-EI/PICK/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_337,Electrical Installation Projects warehouse - PJ-EI Sequence picking before manufacturing,,standard,1,PJ-EI/PC/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_339,Electrical Installation Projects warehouse - PJ-EI Sequence production,,standard,1,PJ-EI/MO/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_998,Electrical Installation Projects warehouse - PJ-EI Sequence repair,,standard,1,PJ-EI/RO/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_336,Electrical Installation Projects warehouse - PJ-EI Sequence return,,standard,1,PJ-EI/RET/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_338,Electrical Installation Projects warehouse - PJ-EI Sequence stock after manufacturing,,standard,1,PJ-EI/SFP/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_551,Electrical Installation Projects warehouse - PJ-EI Sequence subcontracting,,standard,1,PJ-EI/SBC/,1,1,5,
-ir_sequence_electrical_installation_projects_warehou_408,Electrical Installation Projects warehouse - PJ-EI Sequence subcontracting,,standard,1,PJ-EI/SBC/,1,1,5,
+ir_sequence_electrical_installation_projects_warehou,Electrical Installation Projects warehouse - PJ-EI Picking POS,,standard,1,PJ-EI/POS/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_409,Electrical Installation Projects warehouse - PJ-EI Sequence Resupply Subcontractor,,standard,1,PJ-EI/RES/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_552,Electrical Installation Projects warehouse - PJ-EI Sequence Resupply Subcontractor,,standard,1,PJ-EI/RES/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_331,Electrical Installation Projects warehouse - PJ-EI Sequence in,,standard,1,PJ-EI/IN/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_335,Electrical Installation Projects warehouse - PJ-EI Sequence internal,,standard,1,PJ-EI/INT/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_332,Electrical Installation Projects warehouse - PJ-EI Sequence out,,standard,1,PJ-EI/OUT/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_334,Electrical Installation Projects warehouse - PJ-EI Sequence packing,,standard,1,PJ-EI/PACK/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_333,Electrical Installation Projects warehouse - PJ-EI Sequence picking,,standard,1,PJ-EI/PICK/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_337,Electrical Installation Projects warehouse - PJ-EI Sequence picking before manufacturing,,standard,1,PJ-EI/PC/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_339,Electrical Installation Projects warehouse - PJ-EI Sequence production,,standard,1,PJ-EI/MO/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_998,Electrical Installation Projects warehouse - PJ-EI Sequence repair,,standard,1,PJ-EI/RO/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_336,Electrical Installation Projects warehouse - PJ-EI Sequence return,,standard,1,PJ-EI/RET/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_338,Electrical Installation Projects warehouse - PJ-EI Sequence stock after manufacturing,,standard,1,PJ-EI/SFP/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_551,Electrical Installation Projects warehouse - PJ-EI Sequence subcontracting,,standard,1,PJ-EI/SBC/,1,1,5,base.main_company
+ir_sequence_electrical_installation_projects_warehou_408,Electrical Installation Projects warehouse - PJ-EI Sequence subcontracting,,standard,1,PJ-EI/SBC/,1,1,5,base.main_company
 ir_sequence_exchange_difference_check_number_sequenc,Exchange Difference : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_fixed_asset_journal_check_number_sequenc,Fixed Asset Journal : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_fixed_asset_check_number_sequence,Fixed Asset: Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_fixed_asset_check_number_sequence,Fixed Asset: Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_intransit_warehouse_embilipitiya_picking,Intransit warehouse - Embilipitiya Picking POS,,standard,1,IB-EM/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_intransit_warehouse_embilipitiya_sequenc,Intransit warehouse - Embilipitiya Sequence in,,standard,1,IB-EM/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_intransit_warehouse_embilipitiya_sequenc_1248,Intransit warehouse - Embilipitiya Sequence internal,,standard,1,IB-EM/INT/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -399,42 +399,42 @@ ir_sequence_jam_warehouse_ekala_jm_ek_sequence_repai,JAM Warehouse Ekala- (JM-EK
 ir_sequence_jam_warehouse_ekala_jm_ek_sequence_retur,JAM Warehouse Ekala- (JM-EK) Sequence return,,standard,1,JM-EK/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_jam_warehouse_ekala_jm_ek_sequence_stock,JAM Warehouse Ekala- (JM-EK) Sequence stock after manufacturing,,standard,1,JM-EK/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_jam_warehouse_ekala_jm_ek_sequence_subco,JAM Warehouse Ekala- (JM-EK) Sequence subcontracting,,standard,1,JM-EK/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_jinasena_pvt_ltd_warehouse_23_picking_po,Jinasena (Pvt) Ltd. - warehouse # 23 Picking POS,,standard,1,23/POS/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_r,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence Resupply Subcontractor,,standard,1,23/RES/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_i,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence in,,standard,1,23/IN/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_i_851,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence internal,,standard,1,23/INT/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_o,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence out,,standard,1,23/OUT/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence packing,,standard,1,23/PACK/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p_849,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence picking,,standard,1,23/PICK/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p_853,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence picking before manufacturing,,standard,1,23/PC/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p_855,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence production,,standard,1,23/MO/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_r_852,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence return,,standard,1,23/RET/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_s,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence stock after manufacturing,,standard,1,23/SFP/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_s_856,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence subcontracting,,standard,1,23/SBC/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_picking_po,Jinasena (Pvt) Ltd. - warehouse # 26 Picking POS,,standard,1,FSD/POS/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_r,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence Resupply Subcontractor,,standard,1,FSD/RES/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_i,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence in,,standard,1,FSD/IN/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_i_483,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence internal,,standard,1,FSD/INT/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_o,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence out,,standard,1,FSD/OUT/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence packing,,standard,1,FSD/PACK/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p_481,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence picking,,standard,1,FSD/PICK/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p_485,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence picking before manufacturing,,standard,1,FSD/PC/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p_487,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence production,,standard,1,FSD/MO/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_r_484,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence return,,standard,1,FSD/RET/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_s,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence stock after manufacturing,,standard,1,FSD/SFP/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_s_527,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence subcontracting,,standard,1,FSD/SBC/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_picking_po,Jinasena (Pvt) Ltd. - warehouse # 28 Picking POS,,standard,1,28/POS/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_r,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence Resupply Subcontractor,,standard,1,28/RES/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_i,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence in,,standard,1,28/IN/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_i_827,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence internal,,standard,1,28/INT/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_o,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence out,,standard,1,28/OUT/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence packing,,standard,1,28/PACK/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p_825,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence picking,,standard,1,28/PICK/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p_829,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence picking before manufacturing,,standard,1,28/PC/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p_831,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence production,,standard,1,28/MO/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_r_828,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence return,,standard,1,28/RET/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_s,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence stock after manufacturing,,standard,1,28/SFP/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_s_832,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence subcontracting,,standard,1,28/SBC/,1,1,5,
+ir_sequence_jinasena_pvt_ltd_warehouse_23_picking_po,Jinasena (Pvt) Ltd. - warehouse # 23 Picking POS,,standard,1,23/POS/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_r,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence Resupply Subcontractor,,standard,1,23/RES/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_i,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence in,,standard,1,23/IN/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_i_851,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence internal,,standard,1,23/INT/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_o,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence out,,standard,1,23/OUT/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence packing,,standard,1,23/PACK/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p_849,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence picking,,standard,1,23/PICK/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p_853,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence picking before manufacturing,,standard,1,23/PC/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_p_855,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence production,,standard,1,23/MO/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_r_852,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence return,,standard,1,23/RET/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_s,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence stock after manufacturing,,standard,1,23/SFP/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_23_sequence_s_856,Jinasena (Pvt) Ltd. - warehouse # 23 Sequence subcontracting,,standard,1,23/SBC/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_picking_po,Jinasena (Pvt) Ltd. - warehouse # 26 Picking POS,,standard,1,FSD/POS/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_r,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence Resupply Subcontractor,,standard,1,FSD/RES/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_i,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence in,,standard,1,FSD/IN/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_i_483,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence internal,,standard,1,FSD/INT/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_o,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence out,,standard,1,FSD/OUT/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence packing,,standard,1,FSD/PACK/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p_481,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence picking,,standard,1,FSD/PICK/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p_485,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence picking before manufacturing,,standard,1,FSD/PC/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_p_487,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence production,,standard,1,FSD/MO/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_r_484,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence return,,standard,1,FSD/RET/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_s,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence stock after manufacturing,,standard,1,FSD/SFP/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_26_sequence_s_527,Jinasena (Pvt) Ltd. - warehouse # 26 Sequence subcontracting,,standard,1,FSD/SBC/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_picking_po,Jinasena (Pvt) Ltd. - warehouse # 28 Picking POS,,standard,1,28/POS/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_r,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence Resupply Subcontractor,,standard,1,28/RES/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_i,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence in,,standard,1,28/IN/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_i_827,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence internal,,standard,1,28/INT/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_o,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence out,,standard,1,28/OUT/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence packing,,standard,1,28/PACK/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p_825,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence picking,,standard,1,28/PICK/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p_829,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence picking before manufacturing,,standard,1,28/PC/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_p_831,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence production,,standard,1,28/MO/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_r_828,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence return,,standard,1,28/RET/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_s,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence stock after manufacturing,,standard,1,28/SFP/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_warehouse_28_sequence_s_832,Jinasena (Pvt) Ltd. - warehouse # 28 Sequence subcontracting,,standard,1,28/SBC/,1,1,5,base.main_company
 ir_sequence_jinasena_agricultural_machinery_pvt_ltd_,Jinasena Agricultural Machinery (Pvt) Ltd. Picking POS,,standard,1,Jinas/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_jinasena_agricultural_machinery_pvt_ltd__524,Jinasena Agricultural Machinery (Pvt) Ltd. Sequence Resupply Subcontractor,,standard,1,Jinas/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_jinasena_agricultural_machinery_pvt_ltd__393,Jinasena Agricultural Machinery (Pvt) Ltd. Sequence Resupply Subcontractor,,standard,1,Jinas/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -451,24 +451,24 @@ ir_sequence_jinasena_agricultural_machinery_pvt_ltd__234,Jinasena Agricultural M
 ir_sequence_jinasena_agricultural_machinery_pvt_ltd__242,Jinasena Agricultural Machinery (Pvt) Ltd. Sequence stock after manufacturing,,standard,1,Jinas/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_jinasena_agricultural_machinery_pvt_ltd__523,Jinasena Agricultural Machinery (Pvt) Ltd. Sequence subcontracting,,standard,1,Jinas/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_jinasena_agricultural_machinery_pvt_ltd__392,Jinasena Agricultural Machinery (Pvt) Ltd. Sequence subcontracting,,standard,1,Jinas/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_jinasena_warehouse_27_picking_pos,Jinasena warehouse # 27 Picking POS,,standard,1,JW-J/POS/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_resupply_,Jinasena warehouse # 27 Sequence Resupply Subcontractor,,standard,1,JW-J/RES/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_in,Jinasena warehouse # 27 Sequence in,,standard,1,JW-J/IN/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_internal,Jinasena warehouse # 27 Sequence internal,,standard,1,JW-J/INT/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_out,Jinasena warehouse # 27 Sequence out,,standard,1,JW-J/OUT/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_packing,Jinasena warehouse # 27 Sequence packing,,standard,1,JW-J/PACK/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_picking,Jinasena warehouse # 27 Sequence picking,,standard,1,JW-J/PICK/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_picking_b,Jinasena warehouse # 27 Sequence picking before manufacturing,,standard,1,JW-J/PC/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_productio,Jinasena warehouse # 27 Sequence production,,standard,1,JW-J/MO/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_return,Jinasena warehouse # 27 Sequence return,,standard,1,JW-J/RET/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_stock_aft,Jinasena warehouse # 27 Sequence stock after manufacturing,,standard,1,JW-J/SFP/,1,1,5,
-ir_sequence_jinasena_warehouse_27_sequence_subcontra,Jinasena warehouse # 27 Sequence subcontracting,,standard,1,JW-J/SBC/,1,1,5,
-ir_sequence_lc_sequence_no,LC Sequence No,lc.registration.seq,standard,1,LC/%(year)s/,1,1,5,
+ir_sequence_jinasena_warehouse_27_picking_pos,Jinasena warehouse # 27 Picking POS,,standard,1,JW-J/POS/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_resupply_,Jinasena warehouse # 27 Sequence Resupply Subcontractor,,standard,1,JW-J/RES/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_in,Jinasena warehouse # 27 Sequence in,,standard,1,JW-J/IN/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_internal,Jinasena warehouse # 27 Sequence internal,,standard,1,JW-J/INT/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_out,Jinasena warehouse # 27 Sequence out,,standard,1,JW-J/OUT/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_packing,Jinasena warehouse # 27 Sequence packing,,standard,1,JW-J/PACK/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_picking,Jinasena warehouse # 27 Sequence picking,,standard,1,JW-J/PICK/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_picking_b,Jinasena warehouse # 27 Sequence picking before manufacturing,,standard,1,JW-J/PC/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_productio,Jinasena warehouse # 27 Sequence production,,standard,1,JW-J/MO/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_return,Jinasena warehouse # 27 Sequence return,,standard,1,JW-J/RET/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_stock_aft,Jinasena warehouse # 27 Sequence stock after manufacturing,,standard,1,JW-J/SFP/,1,1,5,base.main_company
+ir_sequence_jinasena_warehouse_27_sequence_subcontra,Jinasena warehouse # 27 Sequence subcontracting,,standard,1,JW-J/SBC/,1,1,5,base.main_company
+ir_sequence_lc_sequence_no,LC Sequence No,lc.registration.seq,standard,1,LC/%(year)s/,1,1,5,base.main_company
 ir_sequence_lc_sequence_no_890,LC Sequence No,lc.registration.seq,standard,1,LC/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_mnt_code_gen,MNT code gen,mnt.req.seq,standard,1,MNT/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_mnt_code_gen_248,MNT code gen,mnt.req.seq,standard,1,MNT/%(year)s/,1,1,5,
+ir_sequence_mnt_code_gen_248,MNT code gen,mnt.req.seq,standard,1,MNT/%(year)s/,1,1,5,base.main_company
 ir_sequence_mr_sequence,MR Sequence,material.request.sequence,standard,1,MR/%(year)s,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_mr_code_gen,MR code gen,mtrl.req.seq,standard,1,MR/%(year)s/,1,1,5,
+ir_sequence_mr_code_gen,MR code gen,mtrl.req.seq,standard,1,MR/%(year)s/,1,1,5,base.main_company
 ir_sequence_mr_code_gen_892,MR code gen,mtrl.req.seq,standard,1,MR/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_main_warehouse_jm_ek_picking_pos,Main Warehouse - (JM-EK) Picking POS,,standard,1,JM-EK/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_main_warehouse_jm_ek_sequence_resupply_s,Main Warehouse - (JM-EK) Sequence Resupply Subcontractor,,standard,1,JM-EK/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -491,40 +491,40 @@ ir_sequence_main_warehouse_ekala_sequence_production,Main warehouse - Ekala Sequ
 ir_sequence_main_warehouse_ekala_sequence_return,Main warehouse - Ekala Sequence return,,standard,1,MW-EK/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_ekala_sequence_stock_afte,Main warehouse - Ekala Sequence stock after manufacturing,,standard,1,MW-EK/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_ekala_sequence_subcontrac,Main warehouse - Ekala Sequence subcontracting,,standard,1,MW-EK/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_main_warehouse_mw_cm_sequence_resupply_s,Main warehouse - MW-CM Sequence Resupply Subcontractor,,standard,1,MW-CM/RES/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_resupply_s_358,Main warehouse - MW-CM Sequence Resupply Subcontractor,,standard,1,MW-CM/RES/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_in,Main warehouse - MW-CM Sequence in,,standard,1,MW-CM/IN/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_internal,Main warehouse - MW-CM Sequence internal,,standard,1,MW-CM/INT/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_out,Main warehouse - MW-CM Sequence out,,standard,1,MW-CM/OUT/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_production,Main warehouse - MW-CM Sequence production,,standard,1,MW-CM/MO/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_repair,Main warehouse - MW-CM Sequence repair,,standard,1,MW-CM/RO/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_return,Main warehouse - MW-CM Sequence return,,standard,1,MW-CM/RET/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_subcontrac,Main warehouse - MW-CM Sequence subcontracting,,standard,1,MW-CM/SBC/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_sequence_subcontrac_507,Main warehouse - MW-CM Sequence subcontracting,,standard,1,MW-CM/SBC/,1,1,5,
-ir_sequence_main_warehouse_mw_cm_picking_pos,Main warehouse - MW-CM picking POS,,standard,1,MW-CM/POS/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_picking_pos,Main warehouse - MW-EK Picking POS,,standard,1,MW-EK/POS/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_resupply_s,Main warehouse - MW-EK Sequence Resupply Subcontractor,,standard,1,MW-EK/RES/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_resupply_s_390,Main warehouse - MW-EK Sequence Resupply Subcontractor,,standard,1,MW-EK/RES/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_in,Main warehouse - MW-EK Sequence in,,standard,1,MW-EK/IN/,1,1,5,
+ir_sequence_main_warehouse_mw_cm_sequence_resupply_s,Main warehouse - MW-CM Sequence Resupply Subcontractor,,standard,1,MW-CM/RES/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_resupply_s_358,Main warehouse - MW-CM Sequence Resupply Subcontractor,,standard,1,MW-CM/RES/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_in,Main warehouse - MW-CM Sequence in,,standard,1,MW-CM/IN/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_internal,Main warehouse - MW-CM Sequence internal,,standard,1,MW-CM/INT/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_out,Main warehouse - MW-CM Sequence out,,standard,1,MW-CM/OUT/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_production,Main warehouse - MW-CM Sequence production,,standard,1,MW-CM/MO/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_repair,Main warehouse - MW-CM Sequence repair,,standard,1,MW-CM/RO/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_return,Main warehouse - MW-CM Sequence return,,standard,1,MW-CM/RET/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_subcontrac,Main warehouse - MW-CM Sequence subcontracting,,standard,1,MW-CM/SBC/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_sequence_subcontrac_507,Main warehouse - MW-CM Sequence subcontracting,,standard,1,MW-CM/SBC/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_cm_picking_pos,Main warehouse - MW-CM picking POS,,standard,1,MW-CM/POS/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_picking_pos,Main warehouse - MW-EK Picking POS,,standard,1,MW-EK/POS/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_resupply_s,Main warehouse - MW-EK Sequence Resupply Subcontractor,,standard,1,MW-EK/RES/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_resupply_s_390,Main warehouse - MW-EK Sequence Resupply Subcontractor,,standard,1,MW-EK/RES/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_in,Main warehouse - MW-EK Sequence in,,standard,1,MW-EK/IN/,1,1,5,base.main_company
 ir_sequence_main_warehouse_mw_ek_sequence_in_738,Main warehouse - MW-EK Sequence in,,standard,1,MW-EK/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_main_warehouse_mw_ek_sequence_internal,Main warehouse - MW-EK Sequence internal,,standard,1,MW-EK/INT/,1,1,5,
+ir_sequence_main_warehouse_mw_ek_sequence_internal,Main warehouse - MW-EK Sequence internal,,standard,1,MW-EK/INT/,1,1,5,base.main_company
 ir_sequence_main_warehouse_mw_ek_sequence_internal_742,Main warehouse - MW-EK Sequence internal,,standard,1,MW-EK/INT/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_mw_ek_sequence_out,Main warehouse - MW-EK Sequence out,,standard,1,MW-EK/OUT/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_main_warehouse_mw_ek_sequence_out_213,Main warehouse - MW-EK Sequence out,,standard,1,MW-EK/OUT/,1,1,5,
+ir_sequence_main_warehouse_mw_ek_sequence_out_213,Main warehouse - MW-EK Sequence out,,standard,1,MW-EK/OUT/,1,1,5,base.main_company
 ir_sequence_main_warehouse_mw_ek_sequence_packing,Main warehouse - MW-EK Sequence packing,,standard,1,MW-EK/PACK/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_main_warehouse_mw_ek_sequence_packing_215,Main warehouse - MW-EK Sequence packing,,standard,1,MW-EK/PACK/,1,1,5,
+ir_sequence_main_warehouse_mw_ek_sequence_packing_215,Main warehouse - MW-EK Sequence packing,,standard,1,MW-EK/PACK/,1,1,5,base.main_company
 ir_sequence_main_warehouse_mw_ek_sequence_picking,Main warehouse - MW-EK Sequence picking,,standard,1,MW-EK/PICK/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_main_warehouse_mw_ek_sequence_picking_214,Main warehouse - MW-EK Sequence picking,,standard,1,MW-EK/PICK/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_picking_be,Main warehouse - MW-EK Sequence picking before manufacturing,,standard,1,MW-EK/PC/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_production,Main warehouse - MW-EK Sequence production,,standard,1,MW-EK/MO/,1,1,5,
+ir_sequence_main_warehouse_mw_ek_sequence_picking_214,Main warehouse - MW-EK Sequence picking,,standard,1,MW-EK/PICK/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_picking_be,Main warehouse - MW-EK Sequence picking before manufacturing,,standard,1,MW-EK/PC/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_production,Main warehouse - MW-EK Sequence production,,standard,1,MW-EK/MO/,1,1,5,base.main_company
 ir_sequence_main_warehouse_mw_ek_sequence_repair,Main warehouse - MW-EK Sequence repair,,standard,1,MW-EK/RO/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_main_warehouse_mw_ek_sequence_repair_992,Main warehouse - MW-EK Sequence repair,,standard,1,MW-EK/RO/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_return,Main warehouse - MW-EK Sequence return,,standard,1,MW-EK/RET/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_stock_afte,Main warehouse - MW-EK Sequence stock after manufacturing,,standard,1,MW-EK/SFP/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_subcontrac,Main warehouse - MW-EK Sequence subcontracting,,standard,1,MW-EK/SBC/,1,1,5,
-ir_sequence_main_warehouse_mw_ek_sequence_subcontrac_389,Main warehouse - MW-EK Sequence subcontracting,,standard,1,MW-EK/SBC/,1,1,5,
-ir_sequence_main_warehouse_mw_je_sequence_resupply_s,Main warehouse - MW-JE Sequence Resupply Subcontractor,,standard,1,MW-JE/RES/,1,1,5,
-ir_sequence_main_warehouse_mw_je_sequence_subcontrac,Main warehouse - MW-JE Sequence subcontracting,,standard,1,MW-JE/SBC/,1,1,5,
+ir_sequence_main_warehouse_mw_ek_sequence_repair_992,Main warehouse - MW-EK Sequence repair,,standard,1,MW-EK/RO/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_return,Main warehouse - MW-EK Sequence return,,standard,1,MW-EK/RET/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_stock_afte,Main warehouse - MW-EK Sequence stock after manufacturing,,standard,1,MW-EK/SFP/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_subcontrac,Main warehouse - MW-EK Sequence subcontracting,,standard,1,MW-EK/SBC/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_ek_sequence_subcontrac_389,Main warehouse - MW-EK Sequence subcontracting,,standard,1,MW-EK/SBC/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_je_sequence_resupply_s,Main warehouse - MW-JE Sequence Resupply Subcontractor,,standard,1,MW-JE/RES/,1,1,5,base.main_company
+ir_sequence_main_warehouse_mw_je_sequence_subcontrac,Main warehouse - MW-JE Sequence subcontracting,,standard,1,MW-JE/SBC/,1,1,5,base.main_company
 ir_sequence_main_warehouse_raw_material_for_motors_m,Main warehouse - Raw material for motors - (MW-JE) Picking POS,,standard,1,MW-JE/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_raw_material_for_motors_m_760,Main warehouse - Raw material for motors - (MW-JE) Sequence Resupply Subcontractor,,standard,1,MW-JE/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_raw_material_for_motors_m_750,Main warehouse - Raw material for motors - (MW-JE) Sequence in,,standard,1,MW-JE/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -538,19 +538,19 @@ ir_sequence_main_warehouse_raw_material_for_motors_m_1014,Main warehouse - Raw m
 ir_sequence_main_warehouse_raw_material_for_motors_m_755,Main warehouse - Raw material for motors - (MW-JE) Sequence return,,standard,1,MW-JE/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_raw_material_for_motors_m_757,Main warehouse - Raw material for motors - (MW-JE) Sequence stock after manufacturing,,standard,1,MW-JE/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_raw_material_for_motors_m_759,Main warehouse - Raw material for motors - (MW-JE) Sequence subcontracting,,standard,1,MW-JE/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_main_warehouse_raw_material_for_motors_m_448,Main warehouse - Raw material for motors - MW-JE Picking POS,,standard,1,MW-JE/POS/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_526,Main warehouse - Raw material for motors - MW-JE Sequence Resupply Subcontractor,,standard,1,MW-JE/RES/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_439,Main warehouse - Raw material for motors - MW-JE Sequence in,,standard,1,MW-JE/IN/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_443,Main warehouse - Raw material for motors - MW-JE Sequence internal,,standard,1,MW-JE/INT/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_440,Main warehouse - Raw material for motors - MW-JE Sequence out,,standard,1,MW-JE/OUT/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_442,Main warehouse - Raw material for motors - MW-JE Sequence packing,,standard,1,MW-JE/PACK/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_441,Main warehouse - Raw material for motors - MW-JE Sequence picking,,standard,1,MW-JE/PICK/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_445,Main warehouse - Raw material for motors - MW-JE Sequence picking before manufacturing,,standard,1,MW-JE/PC/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_447,Main warehouse - Raw material for motors - MW-JE Sequence production,,standard,1,MW-JE/MO/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_999,Main warehouse - Raw material for motors - MW-JE Sequence repair,,standard,1,MW-JE/RO/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_444,Main warehouse - Raw material for motors - MW-JE Sequence return,,standard,1,MW-JE/RET/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_446,Main warehouse - Raw material for motors - MW-JE Sequence stock after manufacturing,,standard,1,MW-JE/SFP/,1,1,5,
-ir_sequence_main_warehouse_raw_material_for_motors_m_525,Main warehouse - Raw material for motors - MW-JE Sequence subcontracting,,standard,1,MW-JE/SBC/,1,1,5,
+ir_sequence_main_warehouse_raw_material_for_motors_m_448,Main warehouse - Raw material for motors - MW-JE Picking POS,,standard,1,MW-JE/POS/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_526,Main warehouse - Raw material for motors - MW-JE Sequence Resupply Subcontractor,,standard,1,MW-JE/RES/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_439,Main warehouse - Raw material for motors - MW-JE Sequence in,,standard,1,MW-JE/IN/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_443,Main warehouse - Raw material for motors - MW-JE Sequence internal,,standard,1,MW-JE/INT/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_440,Main warehouse - Raw material for motors - MW-JE Sequence out,,standard,1,MW-JE/OUT/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_442,Main warehouse - Raw material for motors - MW-JE Sequence packing,,standard,1,MW-JE/PACK/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_441,Main warehouse - Raw material for motors - MW-JE Sequence picking,,standard,1,MW-JE/PICK/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_445,Main warehouse - Raw material for motors - MW-JE Sequence picking before manufacturing,,standard,1,MW-JE/PC/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_447,Main warehouse - Raw material for motors - MW-JE Sequence production,,standard,1,MW-JE/MO/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_999,Main warehouse - Raw material for motors - MW-JE Sequence repair,,standard,1,MW-JE/RO/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_444,Main warehouse - Raw material for motors - MW-JE Sequence return,,standard,1,MW-JE/RET/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_446,Main warehouse - Raw material for motors - MW-JE Sequence stock after manufacturing,,standard,1,MW-JE/SFP/,1,1,5,base.main_company
+ir_sequence_main_warehouse_raw_material_for_motors_m_525,Main warehouse - Raw material for motors - MW-JE Sequence subcontracting,,standard,1,MW-JE/SBC/,1,1,5,base.main_company
 ir_sequence_main_warehouse_primovers_mw_cm_sequence_,Main warehouse(Primovers) - (MW-CM) Sequence in,,standard,1,MW-CM/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_primovers_mw_cm_sequence__730,Main warehouse(Primovers) - (MW-CM) Sequence internal,,standard,1,MW-CM/INT/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_main_warehouse_primovers_mw_cm_sequence__727,Main warehouse(Primovers) - (MW-CM) Sequence out,,standard,1,MW-CM/OUT/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -566,10 +566,10 @@ ir_sequence_main_warehouse_primovers_mw_cm_sequence__733,Main warehouse(Primover
 ir_sequence_main_warehouse_primovers_mw_cm_sequence__735,Main warehouse(Primovers) - MW-CM Sequence subcontracting,,standard,1,MW-CM/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_miscellanious_journal_check_number_seque,Miscellanious Journal : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_npo_sequence_no,NPO Sequence No,purchase.order.seq,standard,1,NPO/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_npo_sequence_no_224,NPO Sequence No,purchase.order.seq,standard,1,NPO/%(year)s/,1,1,5,
+ir_sequence_npo_sequence_no_224,NPO Sequence No,purchase.order.seq,standard,1,NPO/%(year)s/,1,1,5,base.main_company
 ir_sequence_o_b_check_number_sequence,O/B : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_o_b_check_number_sequence_628,O/B : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_ot_sequence_no,OT Sequence No,ot.update.seq,standard,1,OT/%(year)s/,1,1,5,
+ir_sequence_ot_sequence_no,OT Sequence No,ot.update.seq,standard,1,OT/%(year)s/,1,1,5,base.main_company
 ir_sequence_ot_sequence_no_893,OT Sequence No,ot.update.seq,standard,1,OT/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_oils_lubricants_warehouse_ow_ek_picking_,Oils & lubricants warehouse - (OW-EK) Picking POS,,standard,1,OW-EK/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_oils_lubricants_warehouse_ow_ek_sequence,Oils & lubricants warehouse - (OW-EK) Sequence Resupply Subcontractor,,standard,1,OW-EK/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -584,62 +584,62 @@ ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_1009,Oils & lubricants ware
 ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_695,Oils & lubricants warehouse - (OW-EK) Sequence return,,standard,1,OW-EK/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_697,Oils & lubricants warehouse - (OW-EK) Sequence stock after manufacturing,,standard,1,OW-EK/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_699,Oils & lubricants warehouse - (OW-EK) Sequence subcontracting,,standard,1,OW-EK/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_361,Oils & lubricants warehouse - OW-EK Sequence Resupply Subcontractor,,standard,1,OW-EK/RES/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_510,Oils & lubricants warehouse - OW-EK Sequence Resupply Subcontractor,,standard,1,OW-EK/RES/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_908,Oils & lubricants warehouse - OW-EK Sequence in,,standard,1,OW-EK/IN/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_915,Oils & lubricants warehouse - OW-EK Sequence internal,,standard,1,OW-EK/INT/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_930,Oils & lubricants warehouse - OW-EK Sequence out,,standard,1,OW-EK/OUT/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_914,Oils & lubricants warehouse - OW-EK Sequence production,,standard,1,OW-EK/MO/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_983,Oils & lubricants warehouse - OW-EK Sequence repair,,standard,1,OW-EK/RO/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_359,Oils & lubricants warehouse - OW-EK Sequence return,,standard,1,OW-EK/RET/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_509,Oils & lubricants warehouse - OW-EK Sequence subcontracting,,standard,1,OW-EK/SBC/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_360,Oils & lubricants warehouse - OW-EK Sequence subcontracting,,standard,1,OW-EK/SBC/,1,1,5,
-ir_sequence_oils_lubricants_warehouse_ow_ek_picking__927,Oils & lubricants warehouse - OW-EK picking POS,,standard,1,OW-EK/POS/,1,1,5,
-ir_sequence_opening_bal_check_number_sequence,Opening Bal : Check Number Sequence,,no_gap,1,,1,1,5,
-ir_sequence_p_pw_ma_sequence_in,P - ( PW-MA ) Sequence in,,standard,1,PW-MA/IN/,1,1,5,
-ir_sequence_p_pw_ma_sequence_internal,P - ( PW-MA ) Sequence internal,,standard,1,PW-MA/INT/,1,1,5,
-ir_sequence_p_pw_ma_sequence_out,P - ( PW-MA ) Sequence out,,standard,1,PW-MA/OUT/,1,1,5,
-ir_sequence_p_pw_ma_sequence_packing,P - ( PW-MA ) Sequence packing,,standard,1,PW-MA/PACK/,1,1,5,
-ir_sequence_p_pw_ma_sequence_picking,P - ( PW-MA ) Sequence picking,,standard,1,PW-MA/PICK/,1,1,5,
-ir_sequence_pr_non_invt_sequence_no,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,1,PRN/%(year)s/,1,1,5,
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_361,Oils & lubricants warehouse - OW-EK Sequence Resupply Subcontractor,,standard,1,OW-EK/RES/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_510,Oils & lubricants warehouse - OW-EK Sequence Resupply Subcontractor,,standard,1,OW-EK/RES/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_908,Oils & lubricants warehouse - OW-EK Sequence in,,standard,1,OW-EK/IN/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_915,Oils & lubricants warehouse - OW-EK Sequence internal,,standard,1,OW-EK/INT/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_930,Oils & lubricants warehouse - OW-EK Sequence out,,standard,1,OW-EK/OUT/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_914,Oils & lubricants warehouse - OW-EK Sequence production,,standard,1,OW-EK/MO/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_983,Oils & lubricants warehouse - OW-EK Sequence repair,,standard,1,OW-EK/RO/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_359,Oils & lubricants warehouse - OW-EK Sequence return,,standard,1,OW-EK/RET/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_509,Oils & lubricants warehouse - OW-EK Sequence subcontracting,,standard,1,OW-EK/SBC/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_sequence_360,Oils & lubricants warehouse - OW-EK Sequence subcontracting,,standard,1,OW-EK/SBC/,1,1,5,base.main_company
+ir_sequence_oils_lubricants_warehouse_ow_ek_picking__927,Oils & lubricants warehouse - OW-EK picking POS,,standard,1,OW-EK/POS/,1,1,5,base.main_company
+ir_sequence_opening_bal_check_number_sequence,Opening Bal : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
+ir_sequence_p_pw_ma_sequence_in,P - ( PW-MA ) Sequence in,,standard,1,PW-MA/IN/,1,1,5,base.main_company
+ir_sequence_p_pw_ma_sequence_internal,P - ( PW-MA ) Sequence internal,,standard,1,PW-MA/INT/,1,1,5,base.main_company
+ir_sequence_p_pw_ma_sequence_out,P - ( PW-MA ) Sequence out,,standard,1,PW-MA/OUT/,1,1,5,base.main_company
+ir_sequence_p_pw_ma_sequence_packing,P - ( PW-MA ) Sequence packing,,standard,1,PW-MA/PACK/,1,1,5,base.main_company
+ir_sequence_p_pw_ma_sequence_picking,P - ( PW-MA ) Sequence picking,,standard,1,PW-MA/PICK/,1,1,5,base.main_company
+ir_sequence_pr_non_invt_sequence_no,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,1,PRN/%(year)s/,1,1,5,base.main_company
 ir_sequence_pr_non_invt_sequence_no_885,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,1,PRN/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_pr_sequence_no,PR Sequence No,purchase.request.seq,standard,1,PR/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_pr_sequence_no_221,PR Sequence No,purchase.request.seq,standard,1,PR/%(year)s/,1,1,5,
+ir_sequence_pr_sequence_no_221,PR Sequence No,purchase.request.seq,standard,1,PR/%(year)s/,1,1,5,base.main_company
 ir_sequence_pso_sequence_no,PSO Sequence No,project.sale.order.seq,standard,1,PSO,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_pso_sequence_no_558,PSO Sequence No,project.sale.order.seq,standard,1,PSO,1,1,5,
-ir_sequence_payment_gateway_check_number_sequence,Payment Gateway: Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_pso_sequence_no_558,PSO Sequence No,project.sale.order.seq,standard,1,PSO,1,1,5,base.main_company
+ir_sequence_payment_gateway_check_number_sequence,Payment Gateway: Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_payment_for_import_purchases_boc_check_n,Payment for Import Purchases - BOC: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_payment_for_import_purchases_commercial_,Payment for Import Purchases - Commercial: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_payment_for_import_purchases_check_numbe,Payment for Import Purchases : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_payment_for_import_purchases_check_numbe,Payment for Import Purchases : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_petty_cash_ekala_sales_centre_check_numb,Petty Cash - Ekala Sales Centre : Check Number Sequence,,standard,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_plastic_division_pl_ek_picking_pos,Plastic Division - PL-EK Picking POS,,standard,1,PL-EK/POS/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_resupply,Plastic Division - PL-EK Sequence Resupply Subcontractor,,standard,1,PL-EK/RES/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_resupply_388,Plastic Division - PL-EK Sequence Resupply Subcontractor,,standard,1,PL-EK/RES/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_in,Plastic Division - PL-EK Sequence in,,standard,1,PL-EK/IN/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_internal,Plastic Division - PL-EK Sequence internal,,standard,1,PL-EK/INT/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_out,Plastic Division - PL-EK Sequence out,,standard,1,PL-EK/OUT/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_packing,Plastic Division - PL-EK Sequence packing,,standard,1,PL-EK/PACK/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_picking,Plastic Division - PL-EK Sequence picking,,standard,1,PL-EK/PICK/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_picking_,Plastic Division - PL-EK Sequence picking before manufacturing,,standard,1,PL-EK/PC/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_producti,Plastic Division - PL-EK Sequence production,,standard,1,PL-EK/MO/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_return,Plastic Division - PL-EK Sequence return,,standard,1,PL-EK/RET/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_stock_af,Plastic Division - PL-EK Sequence stock after manufacturing,,standard,1,PL-EK/SFP/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_subcontr,Plastic Division - PL-EK Sequence subcontracting,,standard,1,PL-EK/SBC/,1,1,5,
-ir_sequence_plastic_division_pl_ek_sequence_subcontr_535,Plastic Division - PL-EK Sequence subcontracting,,standard,1,PL-EK/SBC/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_picking_pos,Plastic Warehouse - ( PL-EK ) Picking POS,,standard,1,PL-EK/POS/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_resuppl,Plastic Warehouse - ( PL-EK ) Sequence Resupply Subcontractor,,standard,1,PL-EK/RES/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_in,Plastic Warehouse - ( PL-EK ) Sequence in,,standard,1,PL-EK/IN/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_interna,Plastic Warehouse - ( PL-EK ) Sequence internal,,standard,1,PL-EK/INT/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_out,Plastic Warehouse - ( PL-EK ) Sequence out,,standard,1,PL-EK/OUT/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_packing,Plastic Warehouse - ( PL-EK ) Sequence packing,,standard,1,PL-EK/PACK/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_picking,Plastic Warehouse - ( PL-EK ) Sequence picking,,standard,1,PL-EK/PICK/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_picking_967,Plastic Warehouse - ( PL-EK ) Sequence picking before manufacturing,,standard,1,PL-EK/PC/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_product,Plastic Warehouse - ( PL-EK ) Sequence production,,standard,1,PL-EK/MO/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_repair,Plastic Warehouse - ( PL-EK ) Sequence repair,,standard,1,PL-EK/RO/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_return,Plastic Warehouse - ( PL-EK ) Sequence return,,standard,1,PL-EK/RET/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_stock_a,Plastic Warehouse - ( PL-EK ) Sequence stock after manufacturing,,standard,1,PL-EK/SFP/,1,1,5,
-ir_sequence_plastic_warehouse_pl_ek_sequence_subcont,Plastic Warehouse - ( PL-EK ) Sequence subcontracting,,standard,1,PL-EK/SBC/,1,1,5,
-ir_sequence_post_dated_cheque_check_number_sequence,Post Dated Cheque : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_plastic_division_pl_ek_picking_pos,Plastic Division - PL-EK Picking POS,,standard,1,PL-EK/POS/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_resupply,Plastic Division - PL-EK Sequence Resupply Subcontractor,,standard,1,PL-EK/RES/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_resupply_388,Plastic Division - PL-EK Sequence Resupply Subcontractor,,standard,1,PL-EK/RES/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_in,Plastic Division - PL-EK Sequence in,,standard,1,PL-EK/IN/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_internal,Plastic Division - PL-EK Sequence internal,,standard,1,PL-EK/INT/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_out,Plastic Division - PL-EK Sequence out,,standard,1,PL-EK/OUT/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_packing,Plastic Division - PL-EK Sequence packing,,standard,1,PL-EK/PACK/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_picking,Plastic Division - PL-EK Sequence picking,,standard,1,PL-EK/PICK/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_picking_,Plastic Division - PL-EK Sequence picking before manufacturing,,standard,1,PL-EK/PC/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_producti,Plastic Division - PL-EK Sequence production,,standard,1,PL-EK/MO/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_return,Plastic Division - PL-EK Sequence return,,standard,1,PL-EK/RET/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_stock_af,Plastic Division - PL-EK Sequence stock after manufacturing,,standard,1,PL-EK/SFP/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_subcontr,Plastic Division - PL-EK Sequence subcontracting,,standard,1,PL-EK/SBC/,1,1,5,base.main_company
+ir_sequence_plastic_division_pl_ek_sequence_subcontr_535,Plastic Division - PL-EK Sequence subcontracting,,standard,1,PL-EK/SBC/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_picking_pos,Plastic Warehouse - ( PL-EK ) Picking POS,,standard,1,PL-EK/POS/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_resuppl,Plastic Warehouse - ( PL-EK ) Sequence Resupply Subcontractor,,standard,1,PL-EK/RES/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_in,Plastic Warehouse - ( PL-EK ) Sequence in,,standard,1,PL-EK/IN/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_interna,Plastic Warehouse - ( PL-EK ) Sequence internal,,standard,1,PL-EK/INT/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_out,Plastic Warehouse - ( PL-EK ) Sequence out,,standard,1,PL-EK/OUT/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_packing,Plastic Warehouse - ( PL-EK ) Sequence packing,,standard,1,PL-EK/PACK/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_picking,Plastic Warehouse - ( PL-EK ) Sequence picking,,standard,1,PL-EK/PICK/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_picking_967,Plastic Warehouse - ( PL-EK ) Sequence picking before manufacturing,,standard,1,PL-EK/PC/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_product,Plastic Warehouse - ( PL-EK ) Sequence production,,standard,1,PL-EK/MO/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_repair,Plastic Warehouse - ( PL-EK ) Sequence repair,,standard,1,PL-EK/RO/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_return,Plastic Warehouse - ( PL-EK ) Sequence return,,standard,1,PL-EK/RET/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_stock_a,Plastic Warehouse - ( PL-EK ) Sequence stock after manufacturing,,standard,1,PL-EK/SFP/,1,1,5,base.main_company
+ir_sequence_plastic_warehouse_pl_ek_sequence_subcont,Plastic Warehouse - ( PL-EK ) Sequence subcontracting,,standard,1,PL-EK/SBC/,1,1,5,base.main_company
+ir_sequence_post_dated_cheque_check_number_sequence,Post Dated Cheque : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_post_dated_cheque_check_number_sequence_1326,Post Dated Cheque: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_production_warehouse_pw_jm_picking_pos,Production Warehouse - (PW-JM) Picking POS,,standard,1,PW-JM/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_production_warehouse_pw_jm_sequence_resu,Production Warehouse - (PW-JM) Sequence Resupply Subcontractor,,standard,1,PW-JM/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -668,7 +668,7 @@ ir_sequence_production_warehouse_jem_department_ekal_710,Production warehouse  J
 ir_sequence_production_warehouse_jem_department_ekal_707,Production warehouse  JEM Department - Ekala Sequence return,,standard,1,PW-MA/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_jem_department_ekal_709,Production warehouse  JEM Department - Ekala Sequence stock after manufacturing,,standard,1,PW-MA/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_jem_department_ekal_711,Production warehouse  JEM Department - Ekala Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_production_warehouse_pw_je_sequence_prod,Production warehouse - (PW-JE) Sequence production,,standard,1,PW-JE/MO/,1,1,5,
+ir_sequence_production_warehouse_pw_je_sequence_prod,Production warehouse - (PW-JE) Sequence production,,standard,1,PW-JE/MO/,1,1,5,base.main_company
 ir_sequence_production_warehouse_casting_mw_jc_picki,Production warehouse - Casting ( MW-JC) Picking POS,,standard,1,MW-JC/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_casting_mw_jc_seque,Production warehouse - Casting ( MW-JC) Sequence Resupply Subcontractor,,standard,1,MW-JC/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_casting_mw_jc_seque_660,Production warehouse - Casting ( MW-JC) Sequence picking before manufacturing,,standard,1,MW-JC/PC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -694,42 +694,42 @@ ir_sequence_production_warehouse_motor_winding_assem_1011,Production warehouse -
 ir_sequence_production_warehouse_motor_winding_assem_719,Production warehouse - Motor winding & assembly - (PW-JE) Sequence return,,standard,1,PW-JE/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_motor_winding_assem_721,Production warehouse - Motor winding & assembly - (PW-JE) Sequence stock after manufacturing,,standard,1,PW-JE/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_motor_winding_assem_723,Production warehouse - Motor winding & assembly - (PW-JE) Sequence subcontracting,,standard,1,PW-JE/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_production_warehouse_pw_e1_picking_pos,Production warehouse - PW-E1 Picking POS,,standard,1,PW-E1/POS/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_resu,Production warehouse - PW-E1 Sequence Resupply Subcontractor,,standard,1,PW-E1/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_resu_375,Production warehouse - PW-E1 Sequence Resupply Subcontractor,,standard,1,PW-E1/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_in,Production warehouse - PW-E1 Sequence in,,standard,1,PW-E1/IN/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_inte,Production warehouse - PW-E1 Sequence internal,,standard,1,PW-E1/INT/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_out,Production warehouse - PW-E1 Sequence out,,standard,1,PW-E1/OUT/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_pack,Production warehouse - PW-E1 Sequence packing,,standard,1,PW-E1/PACK/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_pick,Production warehouse - PW-E1 Sequence picking,,standard,1,PW-E1/PICK/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_pick_161,Production warehouse - PW-E1 Sequence picking before manufacturing,,standard,1,PW-E1/PC/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_prod,Production warehouse - PW-E1 Sequence production,,standard,1,PW-E1/MO/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_q,Production warehouse - PW-E1 Sequence q,,standard,1,PW-E1/q/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_repa,Production warehouse - PW-E1 Sequence repair,,standard,1,PW-E1/RO/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_retu,Production warehouse - PW-E1 Sequence return,,standard,1,PW-E1/RET/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_stoc,Production warehouse - PW-E1 Sequence stock after manufacturing,,standard,1,PW-E1/SFP/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_subc,Production warehouse - PW-E1 Sequence subcontracting,,standard,1,PW-E1/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_e1_sequence_subc_374,Production warehouse - PW-E1 Sequence subcontracting,,standard,1,PW-E1/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_je_picking_pos,Production warehouse - PW-JE Picking POS,,standard,1,PW-JE/POS/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_resu,Production warehouse - PW-JE Sequence Resupply Subcontractor,,standard,1,PW-JE/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_resu_370,Production warehouse - PW-JE Sequence Resupply Subcontractor,,standard,1,PW-JE/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_in,Production warehouse - PW-JE Sequence in,,standard,1,PW-JE/IN/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_inte,Production warehouse - PW-JE Sequence internal,,standard,1,PW-JE/INT/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_out,Production warehouse - PW-JE Sequence out,,standard,1,PW-JE/OUT/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_repa,Production warehouse - PW-JE Sequence repair,,standard,1,PW-JE/RO/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_retu,Production warehouse - PW-JE Sequence return,,standard,1,PW-JE/RET/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_subc,Production warehouse - PW-JE Sequence subcontracting,,standard,1,PW-JE/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_je_sequence_subc_513,Production warehouse - PW-JE Sequence subcontracting,,standard,1,PW-JE/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_resu,Production warehouse - PW-MW Sequence Resupply Subcontractor,,standard,1,PW-MW/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_resu_373,Production warehouse - PW-MW Sequence Resupply Subcontractor,,standard,1,PW-MW/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_in,Production warehouse - PW-MW Sequence in,,standard,1,PW-MW/IN/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_inte,Production warehouse - PW-MW Sequence internal,,standard,1,PW-MW/INT/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_prod,Production warehouse - PW-MW Sequence production,,standard,1,PW-MW/MO/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_repa,Production warehouse - PW-MW Sequence repair,,standard,1,PW-MW/RO/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_retu,Production warehouse - PW-MW Sequence return,,standard,1,PW-MW/RET/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_subc,Production warehouse - PW-MW Sequence subcontracting,,standard,1,PW-MW/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_sequence_subc_372,Production warehouse - PW-MW Sequence subcontracting,,standard,1,PW-MW/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_mw_picking_pos,Production warehouse - PW-MW picking POS,,standard,1,PW-MW/POS/,1,1,5,
+ir_sequence_production_warehouse_pw_e1_picking_pos,Production warehouse - PW-E1 Picking POS,,standard,1,PW-E1/POS/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_resu,Production warehouse - PW-E1 Sequence Resupply Subcontractor,,standard,1,PW-E1/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_resu_375,Production warehouse - PW-E1 Sequence Resupply Subcontractor,,standard,1,PW-E1/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_in,Production warehouse - PW-E1 Sequence in,,standard,1,PW-E1/IN/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_inte,Production warehouse - PW-E1 Sequence internal,,standard,1,PW-E1/INT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_out,Production warehouse - PW-E1 Sequence out,,standard,1,PW-E1/OUT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_pack,Production warehouse - PW-E1 Sequence packing,,standard,1,PW-E1/PACK/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_pick,Production warehouse - PW-E1 Sequence picking,,standard,1,PW-E1/PICK/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_pick_161,Production warehouse - PW-E1 Sequence picking before manufacturing,,standard,1,PW-E1/PC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_prod,Production warehouse - PW-E1 Sequence production,,standard,1,PW-E1/MO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_q,Production warehouse - PW-E1 Sequence q,,standard,1,PW-E1/q/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_repa,Production warehouse - PW-E1 Sequence repair,,standard,1,PW-E1/RO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_retu,Production warehouse - PW-E1 Sequence return,,standard,1,PW-E1/RET/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_stoc,Production warehouse - PW-E1 Sequence stock after manufacturing,,standard,1,PW-E1/SFP/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_subc,Production warehouse - PW-E1 Sequence subcontracting,,standard,1,PW-E1/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_e1_sequence_subc_374,Production warehouse - PW-E1 Sequence subcontracting,,standard,1,PW-E1/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_picking_pos,Production warehouse - PW-JE Picking POS,,standard,1,PW-JE/POS/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_resu,Production warehouse - PW-JE Sequence Resupply Subcontractor,,standard,1,PW-JE/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_resu_370,Production warehouse - PW-JE Sequence Resupply Subcontractor,,standard,1,PW-JE/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_in,Production warehouse - PW-JE Sequence in,,standard,1,PW-JE/IN/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_inte,Production warehouse - PW-JE Sequence internal,,standard,1,PW-JE/INT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_out,Production warehouse - PW-JE Sequence out,,standard,1,PW-JE/OUT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_repa,Production warehouse - PW-JE Sequence repair,,standard,1,PW-JE/RO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_retu,Production warehouse - PW-JE Sequence return,,standard,1,PW-JE/RET/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_subc,Production warehouse - PW-JE Sequence subcontracting,,standard,1,PW-JE/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_je_sequence_subc_513,Production warehouse - PW-JE Sequence subcontracting,,standard,1,PW-JE/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_resu,Production warehouse - PW-MW Sequence Resupply Subcontractor,,standard,1,PW-MW/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_resu_373,Production warehouse - PW-MW Sequence Resupply Subcontractor,,standard,1,PW-MW/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_in,Production warehouse - PW-MW Sequence in,,standard,1,PW-MW/IN/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_inte,Production warehouse - PW-MW Sequence internal,,standard,1,PW-MW/INT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_prod,Production warehouse - PW-MW Sequence production,,standard,1,PW-MW/MO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_repa,Production warehouse - PW-MW Sequence repair,,standard,1,PW-MW/RO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_retu,Production warehouse - PW-MW Sequence return,,standard,1,PW-MW/RET/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_subc,Production warehouse - PW-MW Sequence subcontracting,,standard,1,PW-MW/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_sequence_subc_372,Production warehouse - PW-MW Sequence subcontracting,,standard,1,PW-MW/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_mw_picking_pos,Production warehouse - PW-MW picking POS,,standard,1,PW-MW/POS/,1,1,5,base.main_company
 ir_sequence_production_warehouse_plastic_pl_ek_picki,Production warehouse - Plastic ( PL-EK) Picking POS,,standard,1,PL-EK/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_plastic_pl_ek_seque,Production warehouse - Plastic ( PL-EK) Sequence Resupply Subcontractor,,standard,1,PL-EK/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_plastic_pl_ek_seque_648,Production warehouse - Plastic ( PL-EK) Sequence picking before manufacturing,,standard,1,PL-EK/PC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -756,13 +756,13 @@ ir_sequence_production_warehouse_pumps_pw_e1_sequenc_631,Production warehouse - 
 ir_sequence_production_warehouse_pumps_pw_e1_sequenc_633,Production warehouse - Pumps (PW-E1) Sequence packing,,standard,1,PW-E1/PACK/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_pumps_pw_e1_sequenc_632,Production warehouse - Pumps (PW-E1) Sequence picking,,standard,1,PW-E1/PICK/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_pumps_pw_e1_sequenc_1004,Production warehouse - Pumps (PW-E1) Sequence repair,,standard,1,PW-E1/RO/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_production_warehouse_jem_pw_ma_picking_p,Production warehouse JEM - ( PW-MA ) Picking POS,,standard,1,PW-MA/POS/,1,1,5,
-ir_sequence_production_warehouse_jem_pw_ma_sequence_,Production warehouse JEM - ( PW-MA ) Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,
-ir_sequence_production_warehouse_jem_pw_ma_sequence__943,Production warehouse JEM - ( PW-MA ) Sequence picking before manufacturing,,standard,1,PW-MA/PC/,1,1,5,
-ir_sequence_production_warehouse_jem_pw_ma_sequence__945,Production warehouse JEM - ( PW-MA ) Sequence production,,standard,1,PW-MA/MO/,1,1,5,
-ir_sequence_production_warehouse_jem_pw_ma_sequence__942,Production warehouse JEM - ( PW-MA ) Sequence return,,standard,1,PW-MA/RET/,1,1,5,
-ir_sequence_production_warehouse_jem_pw_ma_sequence__944,Production warehouse JEM - ( PW-MA ) Sequence stock after manufacturing,,standard,1,PW-MA/SFP/,1,1,5,
-ir_sequence_production_warehouse_jem_pw_ma_sequence__946,Production warehouse JEM - ( PW-MA ) Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,
+ir_sequence_production_warehouse_jem_pw_ma_picking_p,Production warehouse JEM - ( PW-MA ) Picking POS,,standard,1,PW-MA/POS/,1,1,5,base.main_company
+ir_sequence_production_warehouse_jem_pw_ma_sequence_,Production warehouse JEM - ( PW-MA ) Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_jem_pw_ma_sequence__943,Production warehouse JEM - ( PW-MA ) Sequence picking before manufacturing,,standard,1,PW-MA/PC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_jem_pw_ma_sequence__945,Production warehouse JEM - ( PW-MA ) Sequence production,,standard,1,PW-MA/MO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_jem_pw_ma_sequence__942,Production warehouse JEM - ( PW-MA ) Sequence return,,standard,1,PW-MA/RET/,1,1,5,base.main_company
+ir_sequence_production_warehouse_jem_pw_ma_sequence__944,Production warehouse JEM - ( PW-MA ) Sequence stock after manufacturing,,standard,1,PW-MA/SFP/,1,1,5,base.main_company
+ir_sequence_production_warehouse_jem_pw_ma_sequence__946,Production warehouse JEM - ( PW-MA ) Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,base.main_company
 ir_sequence_production_warehouse_jem_department_pw_m_773,Production warehouse JEM Department - (PW-MA) Picking POS,,standard,1,PW-MW/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_jem_department_pw_m_772,Production warehouse JEM Department - (PW-MA) Sequence Resupply Subcontractor,,standard,1,PW-MW/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_jem_department_pw_m_768,Production warehouse JEM Department - (PW-MA) Sequence picking before manufacturing,,standard,1,PW-MW/PC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -776,92 +776,92 @@ ir_sequence_production_warehouse_motor_winding_pw_mw_763,Production warehouse Mo
 ir_sequence_production_warehouse_motor_winding_pw_mw_765,Production warehouse Motor Winding - (PW-MW) Sequence packing,,standard,1,PW-MW/PACK/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_motor_winding_pw_mw_764,Production warehouse Motor Winding - (PW-MW) Sequence picking,,standard,1,PW-MW/PICK/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_production_warehouse_motor_winding_pw_mw_1015,Production warehouse Motor Winding - (PW-MW) Sequence repair,,standard,1,PW-MW/RO/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
-ir_sequence_production_warehouse_pw_ma_sequence_resu,Production warehouse PW-MA Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_resu_367,Production warehouse PW-MA Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_in,Production warehouse PW-MA Sequence in,,standard,1,PW-MA/IN/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_out,Production warehouse PW-MA Sequence out,,standard,1,PW-MA/OUT/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_prod,Production warehouse PW-MA Sequence production,,standard,1,PW-MA/MO/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_retu,Production warehouse PW-MA Sequence return,,standard,1,PW-MA/RET/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_subc,Production warehouse PW-MA Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_subc_511,Production warehouse PW-MA Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_sequence_tran,Production warehouse PW-MA Sequence transfer,,standard,1,PW-MA/INT/,1,1,5,
-ir_sequence_production_warehouse_pw_ma_picking_pos,Production warehouse PW-MA picking POS,,standard,1,PW-MA/POS/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Picking POS,,standard,1,PW-MA/POS/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_959,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_949,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence in,,standard,1,PW-MA/IN/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_953,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence internal,,standard,1,PW-MA/INT/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_950,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence out,,standard,1,PW-MA/OUT/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_952,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence packing,,standard,1,PW-MA/PACK/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_951,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence picking,,standard,1,PW-MA/PICK/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_955,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence picking before manufacturing,,standard,1,PW-MA/PC/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_957,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence production,,standard,1,PW-MA/MO/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_1019,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence repair,,standard,1,PW-MA/RO/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_954,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence return,,standard,1,PW-MA/RET/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_956,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence stock after manufacturing,,standard,1,PW-MA/SFP/,1,1,5,
-ir_sequence_production_warehouse_for_machining_and_a_958,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,
-ir_sequence_project_advances_check_number_sequence,Project Advances : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_production_warehouse_pw_ma_sequence_resu,Production warehouse PW-MA Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_resu_367,Production warehouse PW-MA Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_in,Production warehouse PW-MA Sequence in,,standard,1,PW-MA/IN/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_out,Production warehouse PW-MA Sequence out,,standard,1,PW-MA/OUT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_prod,Production warehouse PW-MA Sequence production,,standard,1,PW-MA/MO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_retu,Production warehouse PW-MA Sequence return,,standard,1,PW-MA/RET/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_subc,Production warehouse PW-MA Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_subc_511,Production warehouse PW-MA Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_sequence_tran,Production warehouse PW-MA Sequence transfer,,standard,1,PW-MA/INT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_pw_ma_picking_pos,Production warehouse PW-MA picking POS,,standard,1,PW-MA/POS/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Picking POS,,standard,1,PW-MA/POS/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_959,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence Resupply Subcontractor,,standard,1,PW-MA/RES/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_949,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence in,,standard,1,PW-MA/IN/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_953,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence internal,,standard,1,PW-MA/INT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_950,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence out,,standard,1,PW-MA/OUT/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_952,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence packing,,standard,1,PW-MA/PACK/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_951,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence picking,,standard,1,PW-MA/PICK/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_955,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence picking before manufacturing,,standard,1,PW-MA/PC/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_957,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence production,,standard,1,PW-MA/MO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_1019,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence repair,,standard,1,PW-MA/RO/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_954,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence return,,standard,1,PW-MA/RET/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_956,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence stock after manufacturing,,standard,1,PW-MA/SFP/,1,1,5,base.main_company
+ir_sequence_production_warehouse_for_machining_and_a_958,Production warehouse for Machining and Assembly of JEM - ( PW-MA ) Sequence subcontracting,,standard,1,PW-MA/SBC/,1,1,5,base.main_company
+ir_sequence_project_advances_check_number_sequence,Project Advances : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_project_advances_check_number_sequence_1327,Project Advances: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_project_expense_check_number_sequence,Project Expense: Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_project_expense_check_number_sequence,Project Expense: Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_purchase_check_number_sequence,Purchase : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_purchase_order,Purchase Order,purchase.order,standard,1,PO-,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_quick_repairs_warehouse_rp_qu_picking_po,Quick Repairs warehouse - RP-QU Picking POS,,standard,1,RP-QU/POS/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r,Quick Repairs warehouse - RP-QU Sequence Resupply Subcontractor,,standard,1,RP-QU/RES/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r_550,Quick Repairs warehouse - RP-QU Sequence Resupply Subcontractor,,standard,1,RP-QU/RES/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_i,Quick Repairs warehouse - RP-QU Sequence in,,standard,1,RP-QU/IN/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_i_325,Quick Repairs warehouse - RP-QU Sequence internal,,standard,1,RP-QU/INT/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_o,Quick Repairs warehouse - RP-QU Sequence out,,standard,1,RP-QU/OUT/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p,Quick Repairs warehouse - RP-QU Sequence packing,,standard,1,RP-QU/PACK/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p_323,Quick Repairs warehouse - RP-QU Sequence picking,,standard,1,RP-QU/PICK/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p_327,Quick Repairs warehouse - RP-QU Sequence picking before manufacturing,,standard,1,RP-QU/PC/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p_329,Quick Repairs warehouse - RP-QU Sequence production,,standard,1,RP-QU/MO/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r_997,Quick Repairs warehouse - RP-QU Sequence repair,,standard,1,RP-QU/RO/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r_326,Quick Repairs warehouse - RP-QU Sequence return,,standard,1,RP-QU/RET/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_s,Quick Repairs warehouse - RP-QU Sequence stock after manufacturing,,standard,1,RP-QU/SFP/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_s_549,Quick Repairs warehouse - RP-QU Sequence subcontracting,,standard,1,RP-QU/SBC/,1,1,5,
-ir_sequence_quick_repairs_warehouse_rp_qu_sequence_s_406,Quick Repairs warehouse - RP-QU Sequence subcontracting,,standard,1,RP-QU/SBC/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center,RC-TM - Warehouse for Colombo Sales Center Picking POS,,standard,1,RC-TM/POS/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_412,RC-TM - Warehouse for Colombo Sales Center Sequence INT,,standard,1,RC-TM/INT/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_411,RC-TM - Warehouse for Colombo Sales Center Sequence OUT,,standard,1,RC-TM/OUT/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_385,RC-TM - Warehouse for Colombo Sales Center Sequence Resupply Subcontractor,,standard,1,RC-TM/RES/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_534,RC-TM - Warehouse for Colombo Sales Center Sequence Resupply Subcontractor,,standard,1,RC-TM/RES/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_194,RC-TM - Warehouse for Colombo Sales Center Sequence in,,standard,1,RC-TM/IN/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_198,RC-TM - Warehouse for Colombo Sales Center Sequence internal,,standard,1,RC-TM/INT/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_195,RC-TM - Warehouse for Colombo Sales Center Sequence out,,standard,1,RC-TM/OUT/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_197,RC-TM - Warehouse for Colombo Sales Center Sequence packing,,standard,1,RC-TM/PACK/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_196,RC-TM - Warehouse for Colombo Sales Center Sequence picking,,standard,1,RC-TM/PICK/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_199,RC-TM - Warehouse for Colombo Sales Center Sequence picking before manufacturing,,standard,1,RC-TM/PC/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_201,RC-TM - Warehouse for Colombo Sales Center Sequence production,,standard,1,RC-TM/MO/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_991,RC-TM - Warehouse for Colombo Sales Center Sequence repair,,standard,1,RC-TM/RO/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_383,RC-TM - Warehouse for Colombo Sales Center Sequence return,,standard,1,RC-TM/RET/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_200,RC-TM - Warehouse for Colombo Sales Center Sequence stock after manufacturing,,standard,1,RC-TM/SFP/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_384,RC-TM - Warehouse for Colombo Sales Center Sequence subcontracting,,standard,1,RC-TM/SBC/,1,1,5,
-ir_sequence_rc_tm_warehouse_for_colombo_sales_center_533,RC-TM - Warehouse for Colombo Sales Center Sequence subcontracting,,standard,1,RC-TM/SBC/,1,1,5,
+ir_sequence_quick_repairs_warehouse_rp_qu_picking_po,Quick Repairs warehouse - RP-QU Picking POS,,standard,1,RP-QU/POS/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r,Quick Repairs warehouse - RP-QU Sequence Resupply Subcontractor,,standard,1,RP-QU/RES/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r_550,Quick Repairs warehouse - RP-QU Sequence Resupply Subcontractor,,standard,1,RP-QU/RES/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_i,Quick Repairs warehouse - RP-QU Sequence in,,standard,1,RP-QU/IN/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_i_325,Quick Repairs warehouse - RP-QU Sequence internal,,standard,1,RP-QU/INT/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_o,Quick Repairs warehouse - RP-QU Sequence out,,standard,1,RP-QU/OUT/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p,Quick Repairs warehouse - RP-QU Sequence packing,,standard,1,RP-QU/PACK/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p_323,Quick Repairs warehouse - RP-QU Sequence picking,,standard,1,RP-QU/PICK/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p_327,Quick Repairs warehouse - RP-QU Sequence picking before manufacturing,,standard,1,RP-QU/PC/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_p_329,Quick Repairs warehouse - RP-QU Sequence production,,standard,1,RP-QU/MO/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r_997,Quick Repairs warehouse - RP-QU Sequence repair,,standard,1,RP-QU/RO/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_r_326,Quick Repairs warehouse - RP-QU Sequence return,,standard,1,RP-QU/RET/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_s,Quick Repairs warehouse - RP-QU Sequence stock after manufacturing,,standard,1,RP-QU/SFP/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_s_549,Quick Repairs warehouse - RP-QU Sequence subcontracting,,standard,1,RP-QU/SBC/,1,1,5,base.main_company
+ir_sequence_quick_repairs_warehouse_rp_qu_sequence_s_406,Quick Repairs warehouse - RP-QU Sequence subcontracting,,standard,1,RP-QU/SBC/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center,RC-TM - Warehouse for Colombo Sales Center Picking POS,,standard,1,RC-TM/POS/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_412,RC-TM - Warehouse for Colombo Sales Center Sequence INT,,standard,1,RC-TM/INT/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_411,RC-TM - Warehouse for Colombo Sales Center Sequence OUT,,standard,1,RC-TM/OUT/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_385,RC-TM - Warehouse for Colombo Sales Center Sequence Resupply Subcontractor,,standard,1,RC-TM/RES/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_534,RC-TM - Warehouse for Colombo Sales Center Sequence Resupply Subcontractor,,standard,1,RC-TM/RES/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_194,RC-TM - Warehouse for Colombo Sales Center Sequence in,,standard,1,RC-TM/IN/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_198,RC-TM - Warehouse for Colombo Sales Center Sequence internal,,standard,1,RC-TM/INT/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_195,RC-TM - Warehouse for Colombo Sales Center Sequence out,,standard,1,RC-TM/OUT/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_197,RC-TM - Warehouse for Colombo Sales Center Sequence packing,,standard,1,RC-TM/PACK/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_196,RC-TM - Warehouse for Colombo Sales Center Sequence picking,,standard,1,RC-TM/PICK/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_199,RC-TM - Warehouse for Colombo Sales Center Sequence picking before manufacturing,,standard,1,RC-TM/PC/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_201,RC-TM - Warehouse for Colombo Sales Center Sequence production,,standard,1,RC-TM/MO/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_991,RC-TM - Warehouse for Colombo Sales Center Sequence repair,,standard,1,RC-TM/RO/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_383,RC-TM - Warehouse for Colombo Sales Center Sequence return,,standard,1,RC-TM/RET/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_200,RC-TM - Warehouse for Colombo Sales Center Sequence stock after manufacturing,,standard,1,RC-TM/SFP/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_384,RC-TM - Warehouse for Colombo Sales Center Sequence subcontracting,,standard,1,RC-TM/SBC/,1,1,5,base.main_company
+ir_sequence_rc_tm_warehouse_for_colombo_sales_center_533,RC-TM - Warehouse for Colombo Sales Center Sequence subcontracting,,standard,1,RC-TM/SBC/,1,1,5,base.main_company
 ir_sequence_rm_sequence_no,RM Sequence No,report.model.seq,standard,1,RM/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_rm_sequence_no_271,RM Sequence No,report.model.seq,standard,1,RM/%(year)s/,1,1,5,
+ir_sequence_rm_sequence_no_271,RM Sequence No,report.model.seq,standard,1,RM/%(year)s/,1,1,5,base.main_company
 ir_sequence_rohana_check_number_sequence,ROHANA: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_raw_material_main_warehouse_rp_ek_pickin,Raw Material Main Warehouse - RP-EK Picking POS,,standard,1,RP-EK/POS/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen,Raw Material Main Warehouse - RP-EK Sequence IN,,standard,1,RP-EK/RET/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_245,Raw Material Main Warehouse - RP-EK Sequence MJ,,standard,1,RP-EK/MJ/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_348,Raw Material Main Warehouse - RP-EK Sequence MJ,,standard,1,RP-EK/MJ/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_297,Raw Material Main Warehouse - RP-EK Sequence MJ/IN,,standard,1,RP-EK/MJ/IN/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_451,Raw Material Main Warehouse - RP-EK Sequence MJ/OUT,,standard,1,RP-EK/MJ/OUT/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_349,Raw Material Main Warehouse - RP-EK Sequence MJ/OUT,,standard,1,RP-EK/MJ/OUT/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_347,Raw Material Main Warehouse - RP-EK Sequence MR,,standard,1,RP-EK/MR/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_518,Raw Material Main Warehouse - RP-EK Sequence Resupply Subcontractor,,standard,1,RP-EK/RES/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_378,Raw Material Main Warehouse - RP-EK Sequence Resupply Subcontractor,,standard,1,RP-EK/RES/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_165,Raw Material Main Warehouse - RP-EK Sequence in,,standard,1,RP-EK/IN/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_169,Raw Material Main Warehouse - RP-EK Sequence internal,,standard,1,RP-EK/INT/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_166,Raw Material Main Warehouse - RP-EK Sequence out,,standard,1,RP-EK/OUT/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_168,Raw Material Main Warehouse - RP-EK Sequence packing,,standard,1,RP-EK/PACK/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_167,Raw Material Main Warehouse - RP-EK Sequence picking,,standard,1,RP-EK/PICK/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_170,Raw Material Main Warehouse - RP-EK Sequence picking before manufacturing,,standard,1,RP-EK/PC/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_172,Raw Material Main Warehouse - RP-EK Sequence production,,standard,1,RP-EK/MO/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_988,Raw Material Main Warehouse - RP-EK Sequence repair,,standard,1,RP-EK/RO/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_376,Raw Material Main Warehouse - RP-EK Sequence return,,standard,1,RP-EK/RET/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_345,Raw Material Main Warehouse - RP-EK Sequence return,,standard,1,RP-EK/RET/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_171,Raw Material Main Warehouse - RP-EK Sequence stock after manufacturing,,standard,1,RP-EK/SFP/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_517,Raw Material Main Warehouse - RP-EK Sequence subcontracting,,standard,1,RP-EK/SBC/,1,1,5,
-ir_sequence_raw_material_main_warehouse_rp_ek_sequen_377,Raw Material Main Warehouse - RP-EK Sequence subcontracting,,standard,1,RP-EK/SBC/,1,1,5,
+ir_sequence_raw_material_main_warehouse_rp_ek_pickin,Raw Material Main Warehouse - RP-EK Picking POS,,standard,1,RP-EK/POS/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen,Raw Material Main Warehouse - RP-EK Sequence IN,,standard,1,RP-EK/RET/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_245,Raw Material Main Warehouse - RP-EK Sequence MJ,,standard,1,RP-EK/MJ/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_348,Raw Material Main Warehouse - RP-EK Sequence MJ,,standard,1,RP-EK/MJ/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_297,Raw Material Main Warehouse - RP-EK Sequence MJ/IN,,standard,1,RP-EK/MJ/IN/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_451,Raw Material Main Warehouse - RP-EK Sequence MJ/OUT,,standard,1,RP-EK/MJ/OUT/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_349,Raw Material Main Warehouse - RP-EK Sequence MJ/OUT,,standard,1,RP-EK/MJ/OUT/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_347,Raw Material Main Warehouse - RP-EK Sequence MR,,standard,1,RP-EK/MR/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_518,Raw Material Main Warehouse - RP-EK Sequence Resupply Subcontractor,,standard,1,RP-EK/RES/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_378,Raw Material Main Warehouse - RP-EK Sequence Resupply Subcontractor,,standard,1,RP-EK/RES/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_165,Raw Material Main Warehouse - RP-EK Sequence in,,standard,1,RP-EK/IN/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_169,Raw Material Main Warehouse - RP-EK Sequence internal,,standard,1,RP-EK/INT/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_166,Raw Material Main Warehouse - RP-EK Sequence out,,standard,1,RP-EK/OUT/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_168,Raw Material Main Warehouse - RP-EK Sequence packing,,standard,1,RP-EK/PACK/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_167,Raw Material Main Warehouse - RP-EK Sequence picking,,standard,1,RP-EK/PICK/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_170,Raw Material Main Warehouse - RP-EK Sequence picking before manufacturing,,standard,1,RP-EK/PC/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_172,Raw Material Main Warehouse - RP-EK Sequence production,,standard,1,RP-EK/MO/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_988,Raw Material Main Warehouse - RP-EK Sequence repair,,standard,1,RP-EK/RO/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_376,Raw Material Main Warehouse - RP-EK Sequence return,,standard,1,RP-EK/RET/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_345,Raw Material Main Warehouse - RP-EK Sequence return,,standard,1,RP-EK/RET/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_171,Raw Material Main Warehouse - RP-EK Sequence stock after manufacturing,,standard,1,RP-EK/SFP/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_517,Raw Material Main Warehouse - RP-EK Sequence subcontracting,,standard,1,RP-EK/SBC/,1,1,5,base.main_company
+ir_sequence_raw_material_main_warehouse_rp_ek_sequen_377,Raw Material Main Warehouse - RP-EK Sequence subcontracting,,standard,1,RP-EK/SBC/,1,1,5,base.main_company
 ir_sequence_raw_material_warehouse_rp_ek_picking_pos,Raw Material Warehouse - (RP-EK) Picking POS,,standard,1,RP-EK/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_raw_material_warehouse_rp_ek_sequence_re,Raw Material Warehouse - (RP-EK) Sequence Resupply Subcontractor,,standard,1,RP-EK/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_raw_material_warehouse_rp_ek_sequence_in,Raw Material Warehouse - (RP-EK) Sequence in,,standard,1,RP-EK/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -876,9 +876,9 @@ ir_sequence_raw_material_warehouse_rp_ek_sequence_re_683,Raw Material Warehouse 
 ir_sequence_raw_material_warehouse_rp_ek_sequence_st,Raw Material Warehouse - (RP-EK) Sequence stock after manufacturing,,standard,1,RP-EK/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_raw_material_warehouse_rp_ek_sequence_su,Raw Material Warehouse - (RP-EK) Sequence subcontracting,,standard,1,RP-EK/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_repair_sequence_no,Repair Sequence No,repair.seq,standard,1,REPAIR/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_repair_sequence_no_278,Repair Sequence No,repair.seq,standard,1,REPAIR/%(year)s/,1,1,5,
+ir_sequence_repair_sequence_no_278,Repair Sequence No,repair.seq,standard,1,REPAIR/%(year)s/,1,1,5,base.main_company
 ir_sequence_repair_serial_sequence_no,Repair Serial Sequence No,repair.serial.seq,standard,1,	REP-SERIAL/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_repair_serial_sequence_no_279,Repair Serial Sequence No,repair.serial.seq,standard,1,	REP-SERIAL/%(year)s/,1,1,5,
+ir_sequence_repair_serial_sequence_no_279,Repair Serial Sequence No,repair.serial.seq,standard,1,	REP-SERIAL/%(year)s/,1,1,5,base.main_company
 ir_sequence_repair_warehouse_colombo_rp_cm_picking_p,Repair warehouse - Colombo ( RP-CM) Picking POS,,standard,1,RP-CM/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_repair_warehouse_colombo_rp_cm_sequence_,Repair warehouse - Colombo ( RP-CM) Sequence Resupply Subcontractor,,standard,1,RP-CM/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_repair_warehouse_colombo_rp_cm_sequence__791,Repair warehouse - Colombo ( RP-CM) Sequence picking before manufacturing,,standard,1,RP-CM/PC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -905,21 +905,21 @@ ir_sequence_repairs_warehouse_jam_ekala_sequence_pro,Repairs warehouse - JAM Eka
 ir_sequence_repairs_warehouse_jam_ekala_sequence_ret,Repairs warehouse - JAM Ekala Sequence return,,standard,1,RP-JM/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_repairs_warehouse_jam_ekala_sequence_sto,Repairs warehouse - JAM Ekala Sequence stock after manufacturing,,standard,1,RP-JM/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_repairs_warehouse_jam_ekala_sequence_sub,Repairs warehouse - JAM Ekala Sequence subcontracting,,standard,1,RP-JM/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_repairs_warehouse_rp_cm_picking_pos,Repairs warehouse - RP-CM Picking POS,,standard,1,RP-CM/POS/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_resuppl,Repairs warehouse - RP-CM Sequence Resupply Subcontractor,,standard,1,RP-CM/RES/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_resuppl_403,Repairs warehouse - RP-CM Sequence Resupply Subcontractor,,standard,1,RP-CM/RES/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_in,Repairs warehouse - RP-CM Sequence in,,standard,1,RP-CM/IN/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_interna,Repairs warehouse - RP-CM Sequence internal,,standard,1,RP-CM/INT/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_out,Repairs warehouse - RP-CM Sequence out,,standard,1,RP-CM/OUT/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_packing,Repairs warehouse - RP-CM Sequence packing,,standard,1,RP-CM/PACK/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_picking,Repairs warehouse - RP-CM Sequence picking,,standard,1,RP-CM/PICK/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_picking_304,Repairs warehouse - RP-CM Sequence picking before manufacturing,,standard,1,RP-CM/PC/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_product,Repairs warehouse - RP-CM Sequence production,,standard,1,RP-CM/MO/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_repair,Repairs warehouse - RP-CM Sequence repair,,standard,1,RP-CM/RO/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_return,Repairs warehouse - RP-CM Sequence return,,standard,1,RP-CM/RET/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_stock_a,Repairs warehouse - RP-CM Sequence stock after manufacturing,,standard,1,RP-CM/SFP/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_subcont,Repairs warehouse - RP-CM Sequence subcontracting,,standard,1,RP-CM/SBC/,1,1,5,
-ir_sequence_repairs_warehouse_rp_cm_sequence_subcont_402,Repairs warehouse - RP-CM Sequence subcontracting,,standard,1,RP-CM/SBC/,1,1,5,
+ir_sequence_repairs_warehouse_rp_cm_picking_pos,Repairs warehouse - RP-CM Picking POS,,standard,1,RP-CM/POS/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_resuppl,Repairs warehouse - RP-CM Sequence Resupply Subcontractor,,standard,1,RP-CM/RES/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_resuppl_403,Repairs warehouse - RP-CM Sequence Resupply Subcontractor,,standard,1,RP-CM/RES/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_in,Repairs warehouse - RP-CM Sequence in,,standard,1,RP-CM/IN/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_interna,Repairs warehouse - RP-CM Sequence internal,,standard,1,RP-CM/INT/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_out,Repairs warehouse - RP-CM Sequence out,,standard,1,RP-CM/OUT/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_packing,Repairs warehouse - RP-CM Sequence packing,,standard,1,RP-CM/PACK/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_picking,Repairs warehouse - RP-CM Sequence picking,,standard,1,RP-CM/PICK/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_picking_304,Repairs warehouse - RP-CM Sequence picking before manufacturing,,standard,1,RP-CM/PC/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_product,Repairs warehouse - RP-CM Sequence production,,standard,1,RP-CM/MO/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_repair,Repairs warehouse - RP-CM Sequence repair,,standard,1,RP-CM/RO/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_return,Repairs warehouse - RP-CM Sequence return,,standard,1,RP-CM/RET/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_stock_a,Repairs warehouse - RP-CM Sequence stock after manufacturing,,standard,1,RP-CM/SFP/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_subcont,Repairs warehouse - RP-CM Sequence subcontracting,,standard,1,RP-CM/SBC/,1,1,5,base.main_company
+ir_sequence_repairs_warehouse_rp_cm_sequence_subcont_402,Repairs warehouse - RP-CM Sequence subcontracting,,standard,1,RP-CM/SBC/,1,1,5,base.main_company
 ir_sequence_research_and_development_jam_factory_eka,Research and Development JAM Factory Ekala Picking POS,,standard,1,RD-JM/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_research_and_development_jam_factory_eka_1194,Research and Development JAM Factory Ekala Sequence in,,standard,1,RD-JM/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_research_and_development_jam_factory_eka_1198,Research and Development JAM Factory Ekala Sequence internal,,standard,1,RD-JM/INT/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -959,82 +959,82 @@ ir_sequence_retail_counter_for_products_implements_a_1219,"Retail Counter for Pr
 ir_sequence_retail_counter_for_products_implements_a_1221,"Retail Counter for Products, Implements And Accessories - Thimbirigasya Sequence production",,standard,1,RC-TM/MO/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_retail_counter_for_products_implements_a_1223,"Retail Counter for Products, Implements And Accessories - Thimbirigasya Sequence repair",,standard,1,RC-TM/RO/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_retail_counter_for_products_implements_a_1220,"Retail Counter for Products, Implements And Accessories - Thimbirigasya Sequence stock after manufacturing",,standard,1,RC-TM/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_r,Retail Sales Counter(Sp) - SP-RC Sequence Resupply Subcontractor,,standard,1,SP-RC/RES/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_i,Retail Sales Counter(Sp) - SP-RC Sequence in,,standard,1,SP-RC/IN/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_i_905,Retail Sales Counter(Sp) - SP-RC Sequence internal,,standard,1,SP-RC/INT/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_o,Retail Sales Counter(Sp) - SP-RC Sequence out,,standard,1,SP-RC/OUT/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_p,Retail Sales Counter(Sp) - SP-RC Sequence production,,standard,1,SP-RC/MO/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_r_984,Retail Sales Counter(Sp) - SP-RC Sequence repair,,standard,1,SP-RC/RO/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_r_362,Retail Sales Counter(Sp) - SP-RC Sequence return,,standard,1,SP-RC/RET/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_sequence_s,Retail Sales Counter(Sp) - SP-RC Sequence subcontracting,,standard,1,SP-RC/SBC/,1,1,5,
-ir_sequence_retail_sales_counter_sp_sp_rc_picking_po,Retail Sales Counter(Sp) - SP-RC picking POS,,standard,1,SP-RC/POS/,1,1,5,
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_r,Retail Sales Counter(Sp) - SP-RC Sequence Resupply Subcontractor,,standard,1,SP-RC/RES/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_i,Retail Sales Counter(Sp) - SP-RC Sequence in,,standard,1,SP-RC/IN/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_i_905,Retail Sales Counter(Sp) - SP-RC Sequence internal,,standard,1,SP-RC/INT/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_o,Retail Sales Counter(Sp) - SP-RC Sequence out,,standard,1,SP-RC/OUT/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_p,Retail Sales Counter(Sp) - SP-RC Sequence production,,standard,1,SP-RC/MO/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_r_984,Retail Sales Counter(Sp) - SP-RC Sequence repair,,standard,1,SP-RC/RO/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_r_362,Retail Sales Counter(Sp) - SP-RC Sequence return,,standard,1,SP-RC/RET/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_sequence_s,Retail Sales Counter(Sp) - SP-RC Sequence subcontracting,,standard,1,SP-RC/SBC/,1,1,5,base.main_company
+ir_sequence_retail_sales_counter_sp_sp_rc_picking_po,Retail Sales Counter(Sp) - SP-RC picking POS,,standard,1,SP-RC/POS/,1,1,5,base.main_company
 ir_sequence_slt_payments_check_number_sequence,SLT Payments : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_salaries_check_number_sequence,Salaries : Check Number Sequence,,no_gap,1,,1,1,5,
-ir_sequence_salaries_check_number_sequence_979,Salaries: Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_salaries_check_number_sequence,Salaries : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
+ir_sequence_salaries_check_number_sequence_979,Salaries: Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_salary_payment_check_number_sequence,Salary Payment : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_sales_commission_for_staff_check_number_,Sales Commission for staff: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_sales_journals_check_number_sequence,Sales Journals: Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_sales_journals_check_number_sequence,Sales Journals: Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_sales_order,Sales Order,sale.order,standard,1,S,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_securisation_of_secure_sequence_id_misce,Securisation of secure_sequence_id - Miscellaneous Operations,SECUR3-secure_sequence_id,no_gap,1,,1,1,5,
+ir_sequence_securisation_of_secure_sequence_id_misce,Securisation of secure_sequence_id - Miscellaneous Operations,SECUR3-secure_sequence_id,no_gap,1,,1,1,5,base.main_company
 ir_sequence_securisation_of_secure_sequence_id_vendo,Securisation of secure_sequence_id - Vendor Despatch,SECUR56-secure_sequence_id,no_gap,1,,9,1,0,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_securisation_of_secure_sequence_id_vendo_273,Securisation of secure_sequence_id - Vendor Despatch,SECUR15-secure_sequence_id,no_gap,1,,1,1,5,
+ir_sequence_securisation_of_secure_sequence_id_vendo_273,Securisation of secure_sequence_id - Vendor Despatch,SECUR15-secure_sequence_id,no_gap,1,,1,1,5,base.main_company
 ir_sequence_sequence_appr,Sequence APPR,,standard,1,APPR,1,1,5,
-ir_sequence_stock_journal_check_number_sequence,Stock Journal: Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_stock_journal_check_number_sequence,Stock Journal: Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_tax_journal_check_number_sequence,TAX JOURNAL : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_warehouse_001_picking_pos,TEST - Warehouse - 001 Picking POS,,standard,1,001/POS/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_resupply_sub,TEST - Warehouse - 001 Sequence Resupply Subcontractor,,standard,1,001/RES/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_in,TEST - Warehouse - 001 Sequence in,,standard,1,001/IN/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_internal,TEST - Warehouse - 001 Sequence internal,,standard,1,001/INT/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_out,TEST - Warehouse - 001 Sequence out,,standard,1,001/OUT/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_packing,TEST - Warehouse - 001 Sequence packing,,standard,1,001/PACK/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_picking,TEST - Warehouse - 001 Sequence picking,,standard,1,001/PICK/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_picking_befo,TEST - Warehouse - 001 Sequence picking before manufacturing,,standard,1,001/PC/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_production,TEST - Warehouse - 001 Sequence production,,standard,1,001/MO/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_return,TEST - Warehouse - 001 Sequence return,,standard,1,001/RET/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_stock_after_,TEST - Warehouse - 001 Sequence stock after manufacturing,,standard,1,001/SFP/,1,1,5,
-ir_sequence_test_warehouse_001_sequence_subcontracti,TEST - Warehouse - 001 Sequence subcontracting,,standard,1,001/SBC/,1,1,5,
+ir_sequence_test_warehouse_001_picking_pos,TEST - Warehouse - 001 Picking POS,,standard,1,001/POS/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_resupply_sub,TEST - Warehouse - 001 Sequence Resupply Subcontractor,,standard,1,001/RES/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_in,TEST - Warehouse - 001 Sequence in,,standard,1,001/IN/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_internal,TEST - Warehouse - 001 Sequence internal,,standard,1,001/INT/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_out,TEST - Warehouse - 001 Sequence out,,standard,1,001/OUT/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_packing,TEST - Warehouse - 001 Sequence packing,,standard,1,001/PACK/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_picking,TEST - Warehouse - 001 Sequence picking,,standard,1,001/PICK/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_picking_befo,TEST - Warehouse - 001 Sequence picking before manufacturing,,standard,1,001/PC/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_production,TEST - Warehouse - 001 Sequence production,,standard,1,001/MO/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_return,TEST - Warehouse - 001 Sequence return,,standard,1,001/RET/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_stock_after_,TEST - Warehouse - 001 Sequence stock after manufacturing,,standard,1,001/SFP/,1,1,5,base.main_company
+ir_sequence_test_warehouse_001_sequence_subcontracti,TEST - Warehouse - 001 Sequence subcontracting,,standard,1,001/SBC/,1,1,5,base.main_company
 ir_sequence_test_journal_check_number_sequence,TEST JOURNAL : Check Number Sequence,,standard,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_picking_pos,TEST Picking POS,,standard,1,TE-ST/POS/,1,1,5,
+ir_sequence_test_picking_pos,TEST Picking POS,,standard,1,TE-ST/POS/,1,1,5,base.main_company
 ir_sequence_test_picking_pos_872,TEST Picking POS,,standard,1,TEST/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_test_sequence_resupply_subcontractor,TEST Sequence Resupply Subcontractor,,standard,1,TEST/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_resupply_subcontractor_427,TEST Sequence Resupply Subcontractor,,standard,1,TE-ST/RES/,1,1,5,
-ir_sequence_test_sequence_resupply_subcontractor_554,TEST Sequence Resupply Subcontractor,,standard,1,TE-ST/RES/,1,1,5,
-ir_sequence_test_sequence_in,TEST Sequence in,,standard,1,TE-ST/IN/,1,1,5,
+ir_sequence_test_sequence_resupply_subcontractor_427,TEST Sequence Resupply Subcontractor,,standard,1,TE-ST/RES/,1,1,5,base.main_company
+ir_sequence_test_sequence_resupply_subcontractor_554,TEST Sequence Resupply Subcontractor,,standard,1,TE-ST/RES/,1,1,5,base.main_company
+ir_sequence_test_sequence_in,TEST Sequence in,,standard,1,TE-ST/IN/,1,1,5,base.main_company
 ir_sequence_test_sequence_in_861,TEST Sequence in,,standard,1,TEST/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_test_sequence_internal,TEST Sequence internal,,standard,1,TEST/INT/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_internal_421,TEST Sequence internal,,standard,1,TE-ST/INT/,1,1,5,
-ir_sequence_test_sequence_out,TEST Sequence out,,standard,1,TE-ST/OUT/,1,1,5,
+ir_sequence_test_sequence_internal_421,TEST Sequence internal,,standard,1,TE-ST/INT/,1,1,5,base.main_company
+ir_sequence_test_sequence_out,TEST Sequence out,,standard,1,TE-ST/OUT/,1,1,5,base.main_company
 ir_sequence_test_sequence_out_862,TEST Sequence out,,standard,1,TEST/OUT/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_packing,TEST Sequence packing,,standard,1,TE-ST/PACK/,1,1,5,
+ir_sequence_test_sequence_packing,TEST Sequence packing,,standard,1,TE-ST/PACK/,1,1,5,base.main_company
 ir_sequence_test_sequence_packing_864,TEST Sequence packing,,standard,1,TEST/PACK/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_test_sequence_picking,TEST Sequence picking,,standard,1,TEST/PICK/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_picking_419,TEST Sequence picking,,standard,1,TE-ST/PICK/,1,1,5,
-ir_sequence_test_sequence_picking_before_manufacturi,TEST Sequence picking before manufacturing,,standard,1,TE-ST/PC/,1,1,5,
+ir_sequence_test_sequence_picking_419,TEST Sequence picking,,standard,1,TE-ST/PICK/,1,1,5,base.main_company
+ir_sequence_test_sequence_picking_before_manufacturi,TEST Sequence picking before manufacturing,,standard,1,TE-ST/PC/,1,1,5,base.main_company
 ir_sequence_test_sequence_picking_before_manufacturi_867,TEST Sequence picking before manufacturing,,standard,1,TEST/PC/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_test_sequence_production,TEST Sequence production,,standard,1,TEST/MO/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_production_425,TEST Sequence production,,standard,1,TE-ST/MO/,1,1,5,
+ir_sequence_test_sequence_production_425,TEST Sequence production,,standard,1,TE-ST/MO/,1,1,5,base.main_company
 ir_sequence_test_sequence_return,TEST Sequence return,,standard,1,TEST/RET/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_return_422,TEST Sequence return,,standard,1,TE-ST/RET/,1,1,5,
+ir_sequence_test_sequence_return_422,TEST Sequence return,,standard,1,TE-ST/RET/,1,1,5,base.main_company
 ir_sequence_test_sequence_stock_after_manufacturing,TEST Sequence stock after manufacturing,,standard,1,TEST/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_stock_after_manufacturing_424,TEST Sequence stock after manufacturing,,standard,1,TE-ST/SFP/,1,1,5,
+ir_sequence_test_sequence_stock_after_manufacturing_424,TEST Sequence stock after manufacturing,,standard,1,TE-ST/SFP/,1,1,5,base.main_company
 ir_sequence_test_sequence_subcontracting,TEST Sequence subcontracting,,standard,1,TEST/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_sequence_subcontracting_426,TEST Sequence subcontracting,,standard,1,TE-ST/SBC/,1,1,5,
-ir_sequence_test_sequence_subcontracting_553,TEST Sequence subcontracting,,standard,1,TE-ST/SBC/,1,1,5,
-ir_sequence_tp_invoice_no,TP Invoice No,tp.invoice.seq,standard,1,TP/%(year)s/,1,1,5,
+ir_sequence_test_sequence_subcontracting_426,TEST Sequence subcontracting,,standard,1,TE-ST/SBC/,1,1,5,base.main_company
+ir_sequence_test_sequence_subcontracting_553,TEST Sequence subcontracting,,standard,1,TE-ST/SBC/,1,1,5,base.main_company
+ir_sequence_tp_invoice_no,TP Invoice No,tp.invoice.seq,standard,1,TP/%(year)s/,1,1,5,base.main_company
 ir_sequence_tp_invoice_no_899,TP Invoice No,tp.invoice.seq,standard,1,TP/%(year)s/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_tp_vendor_bills_check_number_sequence,TP Vendor Bills : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_tv_sale_center_tv_sc_picking_pos,TV Sale Center - TV-SC Picking POS,,standard,1,TV-SC/POS/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_resupply_s,TV Sale Center - TV-SC Sequence Resupply Subcontractor,,standard,1,TV-SC/RES/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_in,TV Sale Center - TV-SC Sequence in,,standard,1,TV-SC/IN/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_internal,TV Sale Center - TV-SC Sequence internal,,standard,1,TV-SC/INT/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_out,TV Sale Center - TV-SC Sequence out,,standard,1,TV-SC/OUT/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_packing,TV Sale Center - TV-SC Sequence packing,,standard,1,TV-SC/PACK/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_picking,TV Sale Center - TV-SC Sequence picking,,standard,1,TV-SC/PICK/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_picking_be,TV Sale Center - TV-SC Sequence picking before manufacturing,,standard,1,TV-SC/PC/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_production,TV Sale Center - TV-SC Sequence production,,standard,1,TV-SC/MO/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_return,TV Sale Center - TV-SC Sequence return,,standard,1,TV-SC/RET/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_stock_afte,TV Sale Center - TV-SC Sequence stock after manufacturing,,standard,1,TV-SC/SFP/,1,1,5,
-ir_sequence_tv_sale_center_tv_sc_sequence_subcontrac,TV Sale Center - TV-SC Sequence subcontracting,,standard,1,TV-SC/SBC/,1,1,5,
+ir_sequence_tv_sale_center_tv_sc_picking_pos,TV Sale Center - TV-SC Picking POS,,standard,1,TV-SC/POS/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_resupply_s,TV Sale Center - TV-SC Sequence Resupply Subcontractor,,standard,1,TV-SC/RES/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_in,TV Sale Center - TV-SC Sequence in,,standard,1,TV-SC/IN/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_internal,TV Sale Center - TV-SC Sequence internal,,standard,1,TV-SC/INT/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_out,TV Sale Center - TV-SC Sequence out,,standard,1,TV-SC/OUT/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_packing,TV Sale Center - TV-SC Sequence packing,,standard,1,TV-SC/PACK/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_picking,TV Sale Center - TV-SC Sequence picking,,standard,1,TV-SC/PICK/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_picking_be,TV Sale Center - TV-SC Sequence picking before manufacturing,,standard,1,TV-SC/PC/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_production,TV Sale Center - TV-SC Sequence production,,standard,1,TV-SC/MO/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_return,TV Sale Center - TV-SC Sequence return,,standard,1,TV-SC/RET/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_stock_afte,TV Sale Center - TV-SC Sequence stock after manufacturing,,standard,1,TV-SC/SFP/,1,1,5,base.main_company
+ir_sequence_tv_sale_center_tv_sc_sequence_subcontrac,TV Sale Center - TV-SC Sequence subcontracting,,standard,1,TV-SC/SBC/,1,1,5,base.main_company
 ir_sequence_tender_warehouse_head_office_picking_pos,Tender warehouse - Head Office Picking POS,,standard,1,TD-HO/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_tender_warehouse_head_office_sequence_in,Tender warehouse - Head Office Sequence in,,standard,1,TD-HO/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_tender_warehouse_head_office_sequence_in_1363,Tender warehouse - Head Office Sequence internal,,standard,1,TD-HO/INT/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
@@ -1045,20 +1045,20 @@ ir_sequence_tender_warehouse_head_office_sequence_pi_1364,Tender warehouse - Hea
 ir_sequence_tender_warehouse_head_office_sequence_pr,Tender warehouse - Head Office Sequence production,,standard,1,TD-HO/MO/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_tender_warehouse_head_office_sequence_re,Tender warehouse - Head Office Sequence repair,,standard,1,TD-HO/RO/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_tender_warehouse_head_office_sequence_st,Tender warehouse - Head Office Sequence stock after manufacturing,,standard,1,TD-HO/SFP/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_test_picking_pos_257,Test Picking POS,,standard,1,Test/POS/,1,1,5,
-ir_sequence_test_sequence_resupply_subcontractor_396,Test Sequence Resupply Subcontractor,,standard,1,Test/RES/,1,1,5,
-ir_sequence_test_sequence_resupply_subcontractor_540,Test Sequence Resupply Subcontractor,,standard,1,Test/RES/,1,1,5,
-ir_sequence_test_sequence_in_249,Test Sequence in,,standard,1,Test/IN/,1,1,5,
-ir_sequence_test_sequence_internal_253,Test Sequence internal,,standard,1,Test/INT/,1,1,5,
-ir_sequence_test_sequence_out_250,Test Sequence out,,standard,1,Test/OUT/,1,1,5,
-ir_sequence_test_sequence_packing_252,Test Sequence packing,,standard,1,Test/PACK/,1,1,5,
-ir_sequence_test_sequence_picking_251,Test Sequence picking,,standard,1,Test/PICK/,1,1,5,
-ir_sequence_test_sequence_picking_before_manufacturi_254,Test Sequence picking before manufacturing,,standard,1,Test/PC/,1,1,5,
-ir_sequence_test_sequence_production_256,Test Sequence production,,standard,1,Test/MO/,1,1,5,
-ir_sequence_test_sequence_return_394,Test Sequence return,,standard,1,Test/RET/,1,1,5,
-ir_sequence_test_sequence_stock_after_manufacturing_255,Test Sequence stock after manufacturing,,standard,1,Test/SFP/,1,1,5,
-ir_sequence_test_sequence_subcontracting_539,Test Sequence subcontracting,,standard,1,Test/SBC/,1,1,5,
-ir_sequence_test_sequence_subcontracting_395,Test Sequence subcontracting,,standard,1,Test/SBC/,1,1,5,
+ir_sequence_test_picking_pos_257,Test Picking POS,,standard,1,Test/POS/,1,1,5,base.main_company
+ir_sequence_test_sequence_resupply_subcontractor_396,Test Sequence Resupply Subcontractor,,standard,1,Test/RES/,1,1,5,base.main_company
+ir_sequence_test_sequence_resupply_subcontractor_540,Test Sequence Resupply Subcontractor,,standard,1,Test/RES/,1,1,5,base.main_company
+ir_sequence_test_sequence_in_249,Test Sequence in,,standard,1,Test/IN/,1,1,5,base.main_company
+ir_sequence_test_sequence_internal_253,Test Sequence internal,,standard,1,Test/INT/,1,1,5,base.main_company
+ir_sequence_test_sequence_out_250,Test Sequence out,,standard,1,Test/OUT/,1,1,5,base.main_company
+ir_sequence_test_sequence_packing_252,Test Sequence packing,,standard,1,Test/PACK/,1,1,5,base.main_company
+ir_sequence_test_sequence_picking_251,Test Sequence picking,,standard,1,Test/PICK/,1,1,5,base.main_company
+ir_sequence_test_sequence_picking_before_manufacturi_254,Test Sequence picking before manufacturing,,standard,1,Test/PC/,1,1,5,base.main_company
+ir_sequence_test_sequence_production_256,Test Sequence production,,standard,1,Test/MO/,1,1,5,base.main_company
+ir_sequence_test_sequence_return_394,Test Sequence return,,standard,1,Test/RET/,1,1,5,base.main_company
+ir_sequence_test_sequence_stock_after_manufacturing_255,Test Sequence stock after manufacturing,,standard,1,Test/SFP/,1,1,5,base.main_company
+ir_sequence_test_sequence_subcontracting_539,Test Sequence subcontracting,,standard,1,Test/SBC/,1,1,5,base.main_company
+ir_sequence_test_sequence_subcontracting_395,Test Sequence subcontracting,,standard,1,Test/SBC/,1,1,5,base.main_company
 ir_sequence_testing_picking_pos,Testing Picking POS,,standard,1,Testi/POS/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_testing_sequence_resupply_subcontractor,Testing Sequence Resupply Subcontractor,,standard,1,Testi/RES/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_testing_sequence_in,Testing Sequence in,,standard,1,Testi/IN/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
@@ -1075,41 +1075,41 @@ ir_sequence_testing_sequence_stock_after_manufacturi,Testing Sequence stock afte
 ir_sequence_testing_sequence_subcontracting,Testing Sequence subcontracting,,standard,1,Testi/SBC/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_unbuild,Unbuild,mrp.unbuild,standard,1,UB/,1,1,5,Jinasena_MasterData_Common.res_company_jltd
 ir_sequence_unbuild_235,Unbuild,mrp.unbuild,standard,1,UB/,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_vendor_bill_check_number_sequence,Vendor Bill : Check Number Sequence,,no_gap,1,,1,1,5,
-ir_sequence_vendor_bills_proj_advance_copy_check_num,Vendor Bills (Proj-Advance) (copy) : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_vendor_bill_check_number_sequence,Vendor Bill : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
+ir_sequence_vendor_bills_proj_advance_copy_check_num,Vendor Bills (Proj-Advance) (copy) : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_vendor_bills_proj_advance_check_number_s,Vendor Bills (Proj-Advance): Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_vendor_bills_proj_subcontracts_check_num,Vendor Bills (Proj-Subcontracts): Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_vendor_bills_copy_check_number_sequence,Vendor Bills (copy) : Check Number Sequence,,no_gap,1,,1,1,5,
-ir_sequence_vendor_bills_copy_check_number_sequence_809,Vendor Bills (copy) : Check Number Sequence,,no_gap,1,,1,1,5,
+ir_sequence_vendor_bills_copy_check_number_sequence,Vendor Bills (copy) : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
+ir_sequence_vendor_bills_copy_check_number_sequence_809,Vendor Bills (copy) : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
 ir_sequence_vendor_bills_check_number_sequence,Vendor Bills : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_vendor_despatch_check_number_sequence,Vendor Despatch : Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_vendor_payment_boc_check_number_sequence,Vendor Payment - BOC: Check Number Sequence,,no_gap,1,,1,1,5,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
 ir_sequence_vendor_payment_commercial_check_number_s,Vendor Payment - Commercial: Check Number Sequence,,no_gap,1,,1002,1,6,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-ir_sequence_webxpay_journal_check_number_sequence,WebXPay Journal : Check Number Sequence,,no_gap,1,,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_aaaa,jinasena Pvt Ltd Sequence AAAA,,standard,1,WH/AAAA/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_aaaa_275,jinasena Pvt Ltd Sequence AAAA,,standard,1,WH/AAAA/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_in,jinasena Pvt Ltd Sequence IN,,standard,1,WH/IN/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_out,jinasena Pvt Ltd Sequence OUT,,standard,1,WH/OUT/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_resupply_subco,jinasena Pvt Ltd Sequence Resupply Subcontractor,,standard,1,WH/RES/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_resupply_subco_352,jinasena Pvt Ltd Sequence Resupply Subcontractor,,standard,1,WH/RES/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_aaa,jinasena Pvt Ltd Sequence aaa,,standard,1,WH/aaa/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_repair,jinasena Pvt Ltd Sequence repair,,standard,1,WH/RO/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_return,jinasena Pvt Ltd Sequence return,,standard,1,WH/RET/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_subcontracting,jinasena Pvt Ltd Sequence subcontracting,,standard,1,WH/SBC/,1,1,5,
-ir_sequence_jinasena_pvt_ltd_sequence_subcontracting_351,jinasena Pvt Ltd Sequence subcontracting,,standard,1,WH/SBC/,1,1,5,
-ir_sequence_ttt_picking_pos,ttt Picking POS,,standard,1,TT/POS/,1,1,5,
-ir_sequence_ttt_sequence_resupply_subcontractor,ttt Sequence Resupply Subcontractor,,standard,1,TT/RES/,1,1,5,
-ir_sequence_ttt_sequence_resupply_subcontractor_544,ttt Sequence Resupply Subcontractor,,standard,1,TT/RES/,1,1,5,
-ir_sequence_ttt_sequence_in,ttt Sequence in,,standard,1,TT/IN/,1,1,5,
-ir_sequence_ttt_sequence_internal,ttt Sequence internal,,standard,1,TT/INT/,1,1,5,
-ir_sequence_ttt_sequence_out,ttt Sequence out,,standard,1,TT/OUT/,1,1,5,
-ir_sequence_ttt_sequence_packing,ttt Sequence packing,,standard,1,TT/PACK/,1,1,5,
-ir_sequence_ttt_sequence_picking,ttt Sequence picking,,standard,1,TT/PICK/,1,1,5,
-ir_sequence_ttt_sequence_picking_before_manufacturin,ttt Sequence picking before manufacturing,,standard,1,TT/PC/,1,1,5,
-ir_sequence_ttt_sequence_picking_before_manufacturin_289,ttt Sequence picking before manufacturing,,standard,1,TT/PC/,1,1,5,
-ir_sequence_ttt_sequence_production,ttt Sequence production,,standard,1,TT/MO/,1,1,5,
-ir_sequence_ttt_sequence_return,ttt Sequence return,,standard,1,TT/RET/,1,1,5,
-ir_sequence_ttt_sequence_stock_after_manufacturing,ttt Sequence stock after manufacturing,,standard,1,TT/SFP/,1,1,5,
-ir_sequence_ttt_sequence_stock_after_manufacturing_294,ttt Sequence stock after manufacturing,,standard,1,TT/SFP/,1,1,5,
-ir_sequence_ttt_sequence_subcontracting,ttt Sequence subcontracting,,standard,1,TT/SBC/,1,1,5,
-ir_sequence_ttt_sequence_subcontracting_543,ttt Sequence subcontracting,,standard,1,TT/SBC/,1,1,5,
+ir_sequence_webxpay_journal_check_number_sequence,WebXPay Journal : Check Number Sequence,,no_gap,1,,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_aaaa,jinasena Pvt Ltd Sequence AAAA,,standard,1,WH/AAAA/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_aaaa_275,jinasena Pvt Ltd Sequence AAAA,,standard,1,WH/AAAA/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_in,jinasena Pvt Ltd Sequence IN,,standard,1,WH/IN/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_out,jinasena Pvt Ltd Sequence OUT,,standard,1,WH/OUT/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_resupply_subco,jinasena Pvt Ltd Sequence Resupply Subcontractor,,standard,1,WH/RES/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_resupply_subco_352,jinasena Pvt Ltd Sequence Resupply Subcontractor,,standard,1,WH/RES/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_aaa,jinasena Pvt Ltd Sequence aaa,,standard,1,WH/aaa/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_repair,jinasena Pvt Ltd Sequence repair,,standard,1,WH/RO/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_return,jinasena Pvt Ltd Sequence return,,standard,1,WH/RET/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_subcontracting,jinasena Pvt Ltd Sequence subcontracting,,standard,1,WH/SBC/,1,1,5,base.main_company
+ir_sequence_jinasena_pvt_ltd_sequence_subcontracting_351,jinasena Pvt Ltd Sequence subcontracting,,standard,1,WH/SBC/,1,1,5,base.main_company
+ir_sequence_ttt_picking_pos,ttt Picking POS,,standard,1,TT/POS/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_resupply_subcontractor,ttt Sequence Resupply Subcontractor,,standard,1,TT/RES/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_resupply_subcontractor_544,ttt Sequence Resupply Subcontractor,,standard,1,TT/RES/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_in,ttt Sequence in,,standard,1,TT/IN/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_internal,ttt Sequence internal,,standard,1,TT/INT/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_out,ttt Sequence out,,standard,1,TT/OUT/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_packing,ttt Sequence packing,,standard,1,TT/PACK/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_picking,ttt Sequence picking,,standard,1,TT/PICK/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_picking_before_manufacturin,ttt Sequence picking before manufacturing,,standard,1,TT/PC/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_picking_before_manufacturin_289,ttt Sequence picking before manufacturing,,standard,1,TT/PC/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_production,ttt Sequence production,,standard,1,TT/MO/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_return,ttt Sequence return,,standard,1,TT/RET/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_stock_after_manufacturing,ttt Sequence stock after manufacturing,,standard,1,TT/SFP/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_stock_after_manufacturing_294,ttt Sequence stock after manufacturing,,standard,1,TT/SFP/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_subcontracting,ttt Sequence subcontracting,,standard,1,TT/SBC/,1,1,5,base.main_company
+ir_sequence_ttt_sequence_subcontracting_543,ttt Sequence subcontracting,,standard,1,TT/SBC/,1,1,5,base.main_company

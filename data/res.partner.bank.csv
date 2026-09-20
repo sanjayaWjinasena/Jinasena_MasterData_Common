@@ -1,6 +1,6 @@
-id,active,acc_number,sanitized_acc_number,acc_holder_name,allow_out_payment,bank_id/id,sequence,x_branch_code,x_studio_swift_code
-res_partner_bank_id_19,1,12345,12345,Jinasena Agricultural Machinery (Pvt) Ltd.,1,Jinasena_MasterData_Common.res_bank_sampath,10,,
-res_partner_bank_id_20,1,2222222222222,2222222222222,B M L Fernando,,Jinasena_MasterData_Common.res_bank_hatton_national_bank,10,878,WE234
-res_partner_bank_id_23,1,21323222,21323222,MR H A C HETTIARACHCHI,,Jinasena_MasterData_Common.res_bank_commercial_bank,10,232,132
-res_partner_bank_id_24,1,7662377772,7662377772,Achala De Silva - Finance,,Jinasena_MasterData_Common.res_bank_commercial_bank,10,232,12321
-res_partner_bank_id_25,1,1112222333333,1112222333333,A C PAUL & CO LTD,1,Jinasena_MasterData_Common.res_bank_commercial_bank,10,444,5555
+id,active,acc_number,sanitized_acc_number,acc_holder_name,partner_id/id,allow_out_payment,bank_id/id,sequence,currency_id/id,x_branch_code,x_studio_swift_code
+res_partner_bank_id_19,1,12345,12345,Jinasena Agricultural Machinery (Pvt) Ltd.,__export__.res_partner_87_894ae6ca,1,Jinasena_MasterData_Common.res_bank_sampath,10,,,
+res_partner_bank_id_20,1,2222222222222,2222222222222,B M L Fernando,,,Jinasena_MasterData_Common.res_bank_hatton_national_bank,10,base.LKR,878,WE234
+res_partner_bank_id_23,1,21323222,21323222,MR H A C HETTIARACHCHI,__export__.res_partner_6108_8667d35b,,Jinasena_MasterData_Common.res_bank_commercial_bank,10,,232,132
+res_partner_bank_id_24,1,7662377772,7662377772,Achala De Silva - Finance,,,Jinasena_MasterData_Common.res_bank_commercial_bank,10,,232,12321
+res_partner_bank_id_25,1,1112222333333,1112222333333,A C PAUL & CO LTD,__export__.res_partner_4633_39b0159f,1,Jinasena_MasterData_Common.res_bank_commercial_bank,10,base.LKR,444,5555
