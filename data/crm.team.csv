@@ -1,0 +1,60 @@
+id,name,sequence,active,company_id/id,color,favorite_user_ids/id,use_opportunities,invoiced_target
+crm_team_warehouse_ekala_jld,Warehouse - Ekala JLD,0,1,base.main_company,0,base.user_admin,1,0.0
+crm_team_anuradhapura_water_testing_sales,Anuradhapura Water Testing & Sales,0,1,base.main_company,0,,1,0.0
+crm_team_waste_management_sustainability_division,Waste Management & Sustainability division - Head office,0,1,base.main_company,0,,1,0.0
+crm_team_water_purification_division_head_office,Water purification division - Head Office,0,1,base.main_company,0,,1,0.0
+crm_team_solar_projects_division_head_office,Solar Projects division - Head Office,0,1,base.main_company,0,,1,0.0
+crm_team_repairs_head_office,Repairs - Head Office,0,1,base.main_company,0,,1,0.0
+crm_team_irrigation_items_sales_head_office,Irrigation items sales - Head Office,0,1,base.main_company,0,,1,0.0
+crm_team_general_special_project,General special project,0,1,base.main_company,0,,1,0.0
+crm_team_electrical_installation_division_head_of,Electrical installation division - Head Office,0,1,base.main_company,0,,1,0.0
+crm_team_bhs_projects_division_head_office,BHS Projects division - Head Office,0,1,base.main_company,0,,1,0.0
+crm_team_tender_sales,Tender sales,0,1,base.main_company,0,,1,0.0
+crm_team_spares_store_colombo,Spares Store - Colombo,0,1,base.main_company,0,,1,0.0
+crm_team_nuwara_eliya_sales_centre,Nuwara-Eliya Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_kurunegala_sales_centre,Kurunegala Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_kaduruwela_sales_centre,Kaduruwela Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_kandy_sales_centre,Kandy Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_jafna_sales_centre,Jafna Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_industrial_division,Industrial Division,0,1,base.main_company,0,,1,0.0
+crm_team_head_office_sales,Head Office Sales,0,1,base.main_company,0,,1,0.0
+crm_team_galle_sales_centre,Galle Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_embilipitiya_sales_centre,Embilipitiya Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_ekala_sales_centre,Ekala Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_dambulla_sales_centre,Dambulla Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_colombo_sales_centre,Colombo Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_buttala_sales_centre,Buttala Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_beruwala_sales_centre,Beruwala Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_avissawella_sales_centre,Avissawella Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_anuradhapura_sales_centre,Anuradhapura Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_ampara_sales_centre,Ampara Sales Centre,0,1,base.main_company,0,,1,0.0
+crm_team_warehouse_ekala,Warehouse - Ekala,0,1,,0,,1,0.0
+crm_team_anuradhapura_water_testing_sales_572,Anuradhapura Water Testing & Sales,0,1,,0,,1,0.0
+crm_team_waste_management_sustainability_division_571,Waste Management & Sustainability division - Head office,0,1,,0,,1,0.0
+crm_team_water_purification_division_head_office_570,Water purification division - Head Office,0,1,,0,,1,0.0
+crm_team_solar_projects_division_head_office_569,Solar Projects division - Head Office,0,1,,0,,1,0.0
+crm_team_repairs_head_office_568,Repairs - Head Office,0,1,,0,,1,0.0
+crm_team_irrigation_items_sales_head_office_567,Irrigation items sales - Head Office,0,1,,0,,1,0.0
+crm_team_general_special_project_566,General special project,0,1,,0,,1,0.0
+crm_team_electrical_installation_division_head_of_565,Electrical installation division - Head Office,0,1,,0,,1,0.0
+crm_team_bhs_projects_division_head_office_564,BHS Projects division - Head Office,0,1,,0,,1,0.0
+crm_team_tender_sales_563,Tender sales,0,1,,0,,1,0.0
+crm_team_spares_store_colombo_562,Spares Store - Colombo,0,1,,0,,1,0.0
+crm_team_nuwara_eliya_sales_centre_561,Nuwara-Eliya Sales Centre,0,1,,0,,1,0.0
+crm_team_kurunegala_sales_centre_560,Kurunegala Sales Centre,0,1,,0,,1,0.0
+crm_team_kaduruwela_sales_centre_559,Kaduruwela Sales Centre,0,1,,0,,1,0.0
+crm_team_kandy_sales_centre_558,Kandy Sales Centre,0,1,,0,,1,0.0
+crm_team_jafna_sales_centre_557,Jafna Sales Centre,0,1,,0,,1,0.0
+crm_team_industrial_division_556,Industrial Division,0,1,,0,,1,0.0
+crm_team_head_office_sales_555,Head Office Sales,0,1,,0,,1,0.0
+crm_team_galle_sales_centre_554,Galle Sales Centre,0,1,,0,,1,0.0
+crm_team_embilipitiya_sales_centre_553,Embilipitiya Sales Centre,0,1,,0,,1,0.0
+crm_team_ekala_sales_centre_552,Ekala Sales Centre,0,1,,0,,1,0.0
+crm_team_dambulla_sales_centre_551,Dambulla Sales Centre,0,1,,0,,1,0.0
+crm_team_colombo_sales_centre_550,Colombo Sales Centre,0,1,,0,,1,0.0
+crm_team_buttala_sales_centre_549,Buttala Sales Centre,0,1,,0,,1,0.0
+crm_team_beruwala_sales_centre_548,Beruwala Sales Centre,0,1,,0,,1,0.0
+crm_team_avissawella_sales_centre_547,Avissawella Sales Centre,0,1,,0,,1,0.0
+crm_team_anuradhapura_sales_centre_546,Anuradhapura Sales Centre,0,1,,0,,1,0.0
+crm_team_ampara_sales_centre_545,Ampara Sales Centre,0,1,,0,,1,0.0
+crm_team_jam_factory_ekala,JAM Factory - EKALA,10,1,,0,,1,0.0
