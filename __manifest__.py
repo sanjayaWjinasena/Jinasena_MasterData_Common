@@ -15,7 +15,6 @@
     ],
     'data': [
         'data/res.currency.rate.csv',
-        'data/res.company.csv',
         'data/res.bank.csv',
         'data/res.partner.bank.csv',
         'data/ir.sequence.csv',
