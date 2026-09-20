@@ -25,6 +25,7 @@
         'data/res.bank.csv',
         'data/res.partner.bank.csv',
         'data/ir.sequence.csv',
+        'data/link/res.partner.csv',
     ],
     'installable': True,
     'auto_install': False,
