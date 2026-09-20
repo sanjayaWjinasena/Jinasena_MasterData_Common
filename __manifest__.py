@@ -12,9 +12,12 @@
         'BugFix-Studio-Misc',
         'bank-data',
         'studio_usermodel_migration',
+        'BugFix-Sales',
+        'BugFix-Purchase',
     ],
     'data': [
         'data/res.currency.rate.csv',
+        'data/res.partner.csv',
         'data/res.bank.csv',
         'data/res.partner.bank.csv',
         'data/ir.sequence.csv',
