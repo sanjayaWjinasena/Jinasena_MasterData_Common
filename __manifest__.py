@@ -19,12 +19,7 @@
     'data': [
         'data/res.currency.rate.csv',
         'data/crm.team.csv',
-        'data/x_customer_group.csv',
-        'data/x_vendor_group.csv',
         'data/res.partner.csv',
-        'data/res.bank.csv',
-        'data/res.partner.bank.csv',
-        'data/ir.sequence.csv',
         'data/link/res.partner.csv',
     ],
     'installable': True,

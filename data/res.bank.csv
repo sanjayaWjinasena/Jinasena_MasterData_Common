@@ -1,7 +1,0 @@
-id,name,active,bic,x_micr_code,x_studio_lc_limit
-res_bank_commercial_bank,Commercial Bank,1,COMMBANK,5623,1000000000.0
-res_bank_hatton_national_bank,Hatton National Bank,1,HNB0001,3422,0.0
-res_bank_peoples_bank,Peoples Bank,1,,,0.0
-res_bank_sampath,Sampath,1,GEB123,,0.0
-res_bank_test,TEST,1,TEST123,,500000.0
-res_bank_test_2,TEST-2,1,TEST-2,,100000.0
