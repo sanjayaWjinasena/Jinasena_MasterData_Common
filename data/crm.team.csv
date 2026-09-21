@@ -1,2 +1,2 @@
 id,name,sequence,active,company_id/id,color,favorite_user_ids/id,use_opportunities,invoiced_target
-crm_team_warehouse_ekala_jld,Warehouse - Ekala JLD,0,1,base.main_company,0,"seed_master_data_and_settings.user_8,seed_master_data_and_settings.user_24,base.user_admin",1,0.0
+crm_team_warehouse_ekala_jld,Warehouse - Ekala JLD,0,1,seed_master_data_and_settings.company_jinasena_pvt_ltd,0,"__export__.res_users_8_dbf00b39,__export__.res_users_24_a6d61d09,seed_master_data_and_settings.user_2",1,0.0
