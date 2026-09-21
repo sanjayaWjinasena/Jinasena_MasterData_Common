@@ -20,6 +20,7 @@
         'data/res.currency.rate.csv',
         'data/crm.team.csv',
         'data/res.partner.csv',
+        'data/link/res.partner.csv',
     ],
     'installable': True,
     'auto_install': False,
