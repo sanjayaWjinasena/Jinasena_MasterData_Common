@@ -1,2 +1,3 @@
 id,name,sequence,active,company_id/id,color,favorite_user_ids/id,use_opportunities,invoiced_target
 crm_team_warehouse_ekala_jld,Warehouse - Ekala JLD,0,1,seed_master_data_and_settings.company_jinasena_pvt_ltd,0,"seed_master_data_and_settings.user_8,seed_master_data_and_settings.user_24,seed_master_data_and_settings.user_2",1,0.0
+crm_team_kurunegala_sales_centre_560,Kurunegala Sales Centre,0,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery,0,,1,0.0
