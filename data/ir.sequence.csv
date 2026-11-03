@@ -1,0 +1,6 @@
+id,name,code,implementation,prefix,suffix,padding,number_increment,number_next,use_date_range,active,company_id/id
+ir_sequence_sales_order,Sales Order,sale.order,standard,S,,5,1,263,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_stock_scrap,Stock Scrap,stock.scrap,standard,SP/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_unbuild,Unbuild,mrp.unbuild,standard,UB/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_stock_scrap_1375,Stock Scrap,stock.scrap,standard,SP/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_unbuild_1376,Unbuild,mrp.unbuild,standard,UB/,,5,1,2,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery

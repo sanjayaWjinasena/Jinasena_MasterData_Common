@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Jinasena : MasterData : Common',
-    'version': '17.0.0.0.5',
+    'version': '17.0.0.0.6',
     'summary': 'Master-data extracted from CDB for Common domain.',
     'description': 'Extracted from Clear-DB. Test-env master data. Edit the CSVs in data/ to add/remove rows before install.',
     'author': 'Jinasena Agricultural Machinery (Pvt) Ltd.',
@@ -21,6 +21,10 @@
         'data/crm.team.csv',
         'data/res.partner.csv',
         'data/link/res.partner.csv',
+        'data/res.bank.csv',
+        'data/res.partner.bank.csv',
+        'data/00_bind_xmlids.xml',
+        'data/ir.sequence.csv',
     ],
     'installable': True,
     'auto_install': False,
