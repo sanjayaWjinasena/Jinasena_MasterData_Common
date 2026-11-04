@@ -1,11 +1,14 @@
 id,name,code,implementation,prefix,suffix,padding,number_increment,number_next,use_date_range,active,company_id/id
+ir_sequence_procurement_group,Procurement Group,procurement.group,standard,PG/,,6,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_jinasena_pvt_ltd_sequence_scrap,jinasena Pvt Ltd Sequence scrap,stock.scrap,standard,SP/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_purchase_order_14,Purchase Order,purchase.order,standard,PO-,,5,1,26,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_unbuild,Unbuild,mrp.unbuild,standard,UB/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_pr_sequence_no,PR Sequence No,purchase.request.seq,standard,PR/%(year)s/,,5,1,3,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_cpr_sequence_no,CPR Sequence No,cash.purchase.request.seq,standard,CPR/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_pr_non_invt_sequence_no,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,PRN/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_npo_sequence_no,NPO Sequence No,purchase.order.seq,standard,NPO/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_consignment_sequence_no,Consignment Sequence No,consignment.det.seq,standard,CON/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_expense_invoice,Expense invoice,hr.expense.invoice,standard,EXP/,,3,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_cc_sequence_no,CC Sequence No,custom.clearance.seq,standard,CC/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_tp_invoice_no,TP Invoice No,tp.invoice.seq,standard,TP/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 ir_sequence_lc_sequence_no,LC Sequence No,lc.registration.seq,standard,LC/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
@@ -36,3 +39,7 @@ ir_sequence_pr_sequence_no_898,PR Sequence No,purchase.request.seq,standard,PR/%
 ir_sequence_tp_invoice_no_899,TP Invoice No,tp.invoice.seq,standard,TP/%(year)s/,,5,1,3,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 ir_sequence_rm_sequence_no_900,RM Sequence No,report.model.seq,standard,RM/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 ir_sequence_mr_sequence,MR Sequence,material.request.sequence,standard,MR/%(year)s,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_payroll_import_sequence,Payroll Import Sequence,hr.payroll.import,standard,,,3,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_material_request,Material Request,test_app.material.request,standard,MR/,,4,1,92,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_purchase_request,Purchase Request,test_app.purchase.request,standard,PR/,,4,1,39,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_ot_sheet_sequence,OT Sheet Sequence,hr.ot.sheet,standard,,,3,1,129,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
