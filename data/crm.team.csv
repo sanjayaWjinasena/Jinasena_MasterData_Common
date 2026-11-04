@@ -1,4 +1,5 @@
 id,name,sequence,active,company_id/id,color,favorite_user_ids/id,use_opportunities,invoiced_target
+crm_team_colombo_sales_center_testing,Colombo Sales Center - testing,10,1,seed_master_data_and_settings.company_jinasena_pvt_ltd,0,seed_master_data_and_settings.user_24,1,0.0
 crm_team_ampara_sales_centre,Ampara Sales Centre,0,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery,0,,1,0.0
 crm_team_anuradhapura_sales_centre,Anuradhapura Sales Centre,0,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery,0,,1,0.0
 crm_team_avissawella_sales_centre,Avissawella Sales Centre,0,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery,0,,1,0.0
