@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Jinasena : MasterData : Common',
-    'version': '17.0.0.0.9',
+    'version': '17.0.0.0.10',
     'summary': 'Master-data extracted from CDB for Common domain.',
     'description': 'Extracted from Clear-DB. Test-env master data. Edit the CSVs in data/ to add/remove rows before install.',
     'author': 'Jinasena Agricultural Machinery (Pvt) Ltd.',
@@ -9,6 +9,7 @@
     'license': 'LGPL-3',
     'depends': [
         'seed_master_data_and_settings',
+        'Jinasena_KnownGood_Data',  # users' default companies before the sales-team members
         'BugFix-Studio-Misc',
         'bank-data',
         'studio_usermodel_migration',
