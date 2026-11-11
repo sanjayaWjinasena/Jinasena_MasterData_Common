@@ -1,4 +1,4 @@
-id,acc_number,acc_holder_name,partner_id/id,bank_id/id,currency_id/id,active,allow_out_payment,sequence,x_branch_code,x_studio_bank_code_1,x_studio_branch_code_1,x_studio_swift_code
+id,acc_number,acc_holder_name,partner_id/id,bank_id/id,currency_id/id,active,allow_out_payment,sequence,branch_code,bank_code_1,branch_code_1,swift_code
 res_partner_bank_id_19,12345,Jinasena Agricultural Machinery (Pvt) Ltd.,seed_master_data_and_settings.partner_87,Jinasena_MasterData_Common.res_bank_sampath,,1,1,10,,,,
 res_partner_bank_id_20,2222222222222,B M L Fernando,Jinasena_MasterData_Common.res_partner_b_m_l_fernando,Jinasena_MasterData_Common.res_bank_hatton_national_bank,base.LKR,1,,10,878,,,WE234
 res_partner_bank_id_23,21323222,MR H A C HETTIARACHCHI,Jinasena_MasterData_Common.res_partner_mr_h_a_c_hettiarachchi,Jinasena_MasterData_Common.res_bank_commercial_bank,,1,,10,232,,,132

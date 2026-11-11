@@ -1,4 +1,4 @@
-id,name,bic,active,street,street2,city,zip,state/id,country/id,email,phone,x_micr_code,x_studio_lc_limit
+id,name,bic,active,street,street2,city,zip,state/id,country/id,email,phone,micr_code,lc_limit
 res_bank_test,TEST,TEST123,1,,,,,,,,,,500000.0
 res_bank_test_2,TEST-2,TEST-2,1,,,,,,,,,,100000.0
 res_bank_commercial_bank,Commercial Bank,COMMBANK,1,,,,,,,,,5623,1000000000.0
