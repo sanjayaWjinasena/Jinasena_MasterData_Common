@@ -1,45 +1,45 @@
-id,name,code,implementation,prefix,suffix,padding,number_increment,number_next,use_date_range,active,company_id/id
-ir_sequence_procurement_group,Procurement Group,procurement.group,standard,PG/,,6,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_jinasena_pvt_ltd_sequence_scrap,jinasena Pvt Ltd Sequence scrap,stock.scrap,standard,SP/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_purchase_order_14,Purchase Order,purchase.order,standard,PO-,,5,1,26,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_unbuild,Unbuild,mrp.unbuild,standard,UB/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_pr_sequence_no,PR Sequence No,purchase.request.seq,standard,PR/%(year)s/,,5,1,3,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_cpr_sequence_no,CPR Sequence No,cash.purchase.request.seq,standard,CPR/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_pr_non_invt_sequence_no,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,PRN/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_npo_sequence_no,NPO Sequence No,purchase.order.seq,standard,NPO/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_consignment_sequence_no,Consignment Sequence No,consignment.det.seq,standard,CON/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_expense_invoice,Expense invoice,hr.expense.invoice,standard,EXP/,,3,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_cc_sequence_no,CC Sequence No,custom.clearance.seq,standard,CC/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_tp_invoice_no,TP Invoice No,tp.invoice.seq,standard,TP/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_lc_sequence_no,LC Sequence No,lc.registration.seq,standard,LC/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_con_consolidated_sequence_no,Con. Consolidated Sequence No,con.consolidated.seq,standard,CON/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_jinasena_agricultural_machinery_pvt_ltd_,Jinasena Agricultural Machinery (Pvt) Ltd. Sequence scrap,stock.scrap,standard,SP/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_unbuild_1376,Unbuild,mrp.unbuild,standard,UB/,,5,1,3,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_mr_code_gen,MR code gen,mtrl.req.seq,standard,MR/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_mnt_code_gen,MNT code gen,mnt.req.seq,standard,MNT/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_rm_sequence_no,RM Sequence No,report.model.seq,standard,RM/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_securisation_of_secure_sequence_id_vendo,Securisation of secure_sequence_id - Vendor Despatch,SECUR15-secure_sequence_id,no_gap,,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_securisation_of_secure_sequence_id_misce,Securisation of secure_sequence_id - Miscellaneous Operations,SECUR3-secure_sequence_id,no_gap,,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_ot_sequence_no,OT Sequence No,ot.update.seq,standard,OT/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_pso_sequence_no,PSO Sequence No,project.sale.order.seq,standard,PSO,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_pr_non_invt_sequence_no_885,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,PRN/%(year)s/,,5,1,5,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_cpr_sequence_no_886,CPR Sequence No,cash.purchase.request.seq,standard,CPR/%(year)s/,,5,1,9,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_con_consolidated_sequence_no_887,Con. Consolidated Sequence No,con.consolidated.seq,standard,CON/%(year)s/,,5,1,4,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_consignment_sequence_no_888,Consignment Sequence No,consignment.det.seq,standard,CON/%(year)s/,,5,1,6,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_cc_sequence_no_889,CC Sequence No,custom.clearance.seq,standard,CC/%(year)s/,,5,1,3,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_lc_sequence_no_890,LC Sequence No,lc.registration.seq,standard,LC/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_mnt_code_gen_891,MNT code gen,mnt.req.seq,standard,MNT/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_mr_code_gen_892,MR code gen,mtrl.req.seq,standard,MR/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_ot_sequence_no_893,OT Sequence No,ot.update.seq,standard,OT/%(year)s/,,5,1,2,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_npo_sequence_no_894,NPO Sequence No,purchase.order.seq,standard,NPO/%(year)s/,,5,1,3,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_purchase_order,Purchase Order,purchase.order,standard,PO-,,5,1,54,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_pso_sequence_no_896,PSO Sequence No,project.sale.order.seq,standard,PSO,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_sales_order,Sales Order,sale.order,standard,S,,5,1,1665,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_pr_sequence_no_898,PR Sequence No,purchase.request.seq,standard,PR/%(year)s/,,5,1,38,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_tp_invoice_no_899,TP Invoice No,tp.invoice.seq,standard,TP/%(year)s/,,5,1,3,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_rm_sequence_no_900,RM Sequence No,report.model.seq,standard,RM/%(year)s/,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_mr_sequence,MR Sequence,material.request.sequence,standard,MR/%(year)s,,5,1,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-ir_sequence_payroll_import_sequence,Payroll Import Sequence,hr.payroll.import,standard,,,3,1,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_material_request,Material Request,test_app.material.request,standard,MR/,,4,1,92,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_purchase_request,Purchase Request,test_app.purchase.request,standard,PR/,,4,1,39,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
-ir_sequence_ot_sheet_sequence,OT Sheet Sequence,hr.ot.sheet,standard,,,3,1,129,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+id,name,code,implementation,prefix,suffix,padding,number_increment,use_date_range,active,company_id/id
+ir_sequence_procurement_group,Procurement Group,procurement.group,standard,PG/,,6,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_jinasena_pvt_ltd_sequence_scrap,jinasena Pvt Ltd Sequence scrap,stock.scrap,standard,SP/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_purchase_order_14,Purchase Order,purchase.order,standard,PO-,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_unbuild,Unbuild,mrp.unbuild,standard,UB/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_pr_sequence_no,PR Sequence No,purchase.request.seq,standard,PR/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_cpr_sequence_no,CPR Sequence No,cash.purchase.request.seq,standard,CPR/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_pr_non_invt_sequence_no,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,PRN/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_npo_sequence_no,NPO Sequence No,purchase.order.seq,standard,NPO/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_consignment_sequence_no,Consignment Sequence No,consignment.det.seq,standard,CON/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_expense_invoice,Expense invoice,hr.expense.invoice,standard,EXP/,,3,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_cc_sequence_no,CC Sequence No,custom.clearance.seq,standard,CC/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_tp_invoice_no,TP Invoice No,tp.invoice.seq,standard,TP/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_lc_sequence_no,LC Sequence No,lc.registration.seq,standard,LC/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_con_consolidated_sequence_no,Con. Consolidated Sequence No,con.consolidated.seq,standard,CON/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_jinasena_agricultural_machinery_pvt_ltd_,Jinasena Agricultural Machinery (Pvt) Ltd. Sequence scrap,stock.scrap,standard,SP/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_unbuild_1376,Unbuild,mrp.unbuild,standard,UB/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_mr_code_gen,MR code gen,mtrl.req.seq,standard,MR/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_mnt_code_gen,MNT code gen,mnt.req.seq,standard,MNT/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_rm_sequence_no,RM Sequence No,report.model.seq,standard,RM/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_securisation_of_secure_sequence_id_vendo,Securisation of secure_sequence_id - Vendor Despatch,SECUR15-secure_sequence_id,no_gap,,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_securisation_of_secure_sequence_id_misce,Securisation of secure_sequence_id - Miscellaneous Operations,SECUR3-secure_sequence_id,no_gap,,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_ot_sequence_no,OT Sequence No,ot.update.seq,standard,OT/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_pso_sequence_no,PSO Sequence No,project.sale.order.seq,standard,PSO,,5,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_pr_non_invt_sequence_no_885,PR Non Invt. Sequence No,purchase.request.non.invt.seq,standard,PRN/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_cpr_sequence_no_886,CPR Sequence No,cash.purchase.request.seq,standard,CPR/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_con_consolidated_sequence_no_887,Con. Consolidated Sequence No,con.consolidated.seq,standard,CON/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_consignment_sequence_no_888,Consignment Sequence No,consignment.det.seq,standard,CON/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_cc_sequence_no_889,CC Sequence No,custom.clearance.seq,standard,CC/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_lc_sequence_no_890,LC Sequence No,lc.registration.seq,standard,LC/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_mnt_code_gen_891,MNT code gen,mnt.req.seq,standard,MNT/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_mr_code_gen_892,MR code gen,mtrl.req.seq,standard,MR/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_ot_sequence_no_893,OT Sequence No,ot.update.seq,standard,OT/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_npo_sequence_no_894,NPO Sequence No,purchase.order.seq,standard,NPO/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_purchase_order,Purchase Order,purchase.order,standard,PO-,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_pso_sequence_no_896,PSO Sequence No,project.sale.order.seq,standard,PSO,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_sales_order,Sales Order,sale.order,standard,S,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_pr_sequence_no_898,PR Sequence No,purchase.request.seq,standard,PR/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_tp_invoice_no_899,TP Invoice No,tp.invoice.seq,standard,TP/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_rm_sequence_no_900,RM Sequence No,report.model.seq,standard,RM/%(year)s/,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_mr_sequence,MR Sequence,material.request.sequence,standard,MR/%(year)s,,5,1,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+ir_sequence_payroll_import_sequence,Payroll Import Sequence,hr.payroll.import,standard,,,3,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_material_request,Material Request,test_app.material.request,standard,MR/,,4,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_purchase_request,Purchase Request,test_app.purchase.request,standard,PR/,,4,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+ir_sequence_ot_sheet_sequence,OT Sheet Sequence,hr.ot.sheet,standard,,,3,1,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd

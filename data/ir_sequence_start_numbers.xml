@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Start numbers of the seeded sequences (Clear-DB). noupdate: set on install only. In
+         ir.sequence.csv they were reset to these values on every module update, so the next
+         documents reused numbers already issued (e.g. sale orders S01665... again). -->
+    <data noupdate="1">
+        <record id="ir_sequence_purchase_order_14" model="ir.sequence"><field name="number_next">26</field></record>
+        <record id="ir_sequence_pr_sequence_no" model="ir.sequence"><field name="number_next">3</field></record>
+        <record id="ir_sequence_unbuild_1376" model="ir.sequence"><field name="number_next">3</field></record>
+        <record id="ir_sequence_pr_non_invt_sequence_no_885" model="ir.sequence"><field name="number_next">5</field></record>
+        <record id="ir_sequence_cpr_sequence_no_886" model="ir.sequence"><field name="number_next">9</field></record>
+        <record id="ir_sequence_con_consolidated_sequence_no_887" model="ir.sequence"><field name="number_next">4</field></record>
+        <record id="ir_sequence_consignment_sequence_no_888" model="ir.sequence"><field name="number_next">6</field></record>
+        <record id="ir_sequence_cc_sequence_no_889" model="ir.sequence"><field name="number_next">3</field></record>
+        <record id="ir_sequence_ot_sequence_no_893" model="ir.sequence"><field name="number_next">2</field></record>
+        <record id="ir_sequence_npo_sequence_no_894" model="ir.sequence"><field name="number_next">3</field></record>
+        <record id="ir_sequence_purchase_order" model="ir.sequence"><field name="number_next">54</field></record>
+        <record id="ir_sequence_sales_order" model="ir.sequence"><field name="number_next">1665</field></record>
+        <record id="ir_sequence_pr_sequence_no_898" model="ir.sequence"><field name="number_next">38</field></record>
+        <record id="ir_sequence_tp_invoice_no_899" model="ir.sequence"><field name="number_next">3</field></record>
+        <record id="ir_sequence_material_request" model="ir.sequence"><field name="number_next">92</field></record>
+        <record id="ir_sequence_purchase_request" model="ir.sequence"><field name="number_next">39</field></record>
+        <record id="ir_sequence_ot_sheet_sequence" model="ir.sequence"><field name="number_next">129</field></record>
+    </data>
+</odoo>
